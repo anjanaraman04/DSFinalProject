@@ -1,0 +1,2330 @@
+year,type,country,lat,lon,deaths,search_key
+1970,Earthquake,China,24.185,102.543,10000,china earthquake
+1970,Earthquake,Colombia,6.375,-77.438,0,colombia earthquake
+1970,Earthquake,Ecuador,-4.026,-80.542,29,ecuador earthquake
+1970,Earthquake,India,21.7,73,26,india earthquake
+1971,Earthquake,Chile,-32.601,-71.076,85,chile earthquake
+1973,Earthquake,Costa Rica,10.679,-84.759,21,costa rica earthquake
+1974,Earthquake,China,28.4,104.1,20000,china earthquake
+1975,Earthquake,China,40.641,122.58,2000,china earthquake
+1975,Earthquake,India,32.455,78.43,47,india earthquake
+1976,Earthquake,Afghanistan,36.61,67.79,50,afghanistan earthquake
+1976,Earthquake,China,39.57,117.978,242000,china earthquake
+1976,Earthquake,China,30.37 N,104.06 E,0,china earthquake
+1976,Earthquake,Ecuador,0.782,79.804,10,ecuador earthquake
+1976,Earthquake,Ecuador,0.14 S,78.30 W,10,ecuador earthquake
+1976,Volcanic activity,Ecuador,-0.677,-78.436,1,ecuador volcanic activity
+1976,Earthquake,Guatemala,15.324,-89.101,23000,guatemala earthquake
+1976,Earthquake,Indonesia,-4.603,140.091,420,indonesia earthquake
+1976,Earthquake,Indonesia,-8.17,114.888,573,indonesia earthquake
+1976,Earthquake,Indonesia,-4.517,139.918,133,indonesia earthquake
+1977,Earthquake,Indonesia,-11.164,118.378,185,indonesia earthquake
+1977,Earthquake,Argentina,-31.028,-67.767,70,argentina earthquake
+1977,Earthquake,Bulgaria,45.77 N,26.76 E,20,bulgaria earthquake
+1978,Earthquake,Greece,40.739,23.229,50,greece earthquake
+1970,Earthquake,Peru,-9.183,-78.737,66794,peru earthquake
+1970,Earthquake,Papua New Guinea,-4.999,145.396,15,papua new guinea earthquake
+1970,Earthquake,Iran (Islamic Republic of),37.733,55.885,176,iran (islamic republic of) earthquake
+1970,Earthquake,Peru,-4.026,-80.542,29,peru earthquake
+1970,Earthquake,Philippines (the),15.791,121.630,14,philippines (the) earthquake
+1970,Earthquake,Turkey,39.098,29.570,1086,turkey earthquake
+1971,Earthquake,Italy,42.5,11.8,22,italy earthquake
+1971,Earthquake,Turkey,37.6,29.8,57,turkey earthquake
+1971,Earthquake,Turkey,38.934,40.653,878,turkey earthquake
+1971,Earthquake,United States of America (the),34.416,-118.37,65,united states of america (the) earthquake
+1972,Earthquake,Iran (Islamic Republic of),28.415,52.765,5057,iran (islamic republic of) earthquake
+1972,Earthquake,Italy,43.8,13.3,1,italy earthquake
+1972,Earthquake,Nicaragua,12.184,-86.223,10000,nicaragua earthquake
+1972,Earthquake,Pakistan,36,73.4,100,pakistan earthquake
+1972,Earthquake,Peru,-6.855,-76.726,12,peru earthquake
+1973,Earthquake,Mexico,18.481,-102.996,56,mexico earthquake
+1973,Earthquake,Mexico,18.267,-96.598,500,mexico earthquake
+1973,Earthquake,Philippines (the),13.372,122.787,14,philippines (the) earthquake
+1974,Earthquake,Japan,34.522,138.74,30,japan earthquake
+1974,Earthquake,Pakistan,35.1,72.9,4700,pakistan earthquake
+1974,Earthquake,Peru,-12.265,-77.795,78,peru earthquake
+1975,Earthquake,Solomon Islands,-7.104,155.152,200,solomon islands earthquake
+1975,Earthquake,Turkey,38.474,40.723,2385,turkey earthquake
+1976,Earthquake,Philippines (the),6.262,124.023,6000,philippines (the) earthquake
+1976,Earthquake,Iran (Islamic Republic of),33.8,59.15,16,iran (islamic republic of) earthquake
+1976,Earthquake,Iceland,66.157,-16.582,1,iceland earthquake
+1976,Earthquake,Italy,46.356,13.275,922,italy earthquake
+1976,Earthquake,New Zealand,-28.427,-177.657,0,new zealand earthquake
+1976,Earthquake,Soviet Union,40.381,63.472,0,soviet union earthquake
+1976,Earthquake,Turkey,41.13,43.01,2,turkey earthquake
+1976,Earthquake,Turkey,37.7,28.89,4,turkey earthquake
+1976,Earthquake,Turkey,39.121,44.029,3840,turkey earthquake
+1977,Earthquake,Solomon Islands,-9.828,160.323,34,solomon islands earthquake
+1977,Earthquake,Iran (Islamic Republic of),27.609,56.393,167,iran (islamic republic of) earthquake
+1977,Earthquake,Iran (Islamic Republic of),31.98,50.68,352,iran (islamic republic of) earthquake
+1977,Earthquake,Iran (Islamic Republic of),38.934,44.38,3,iran (islamic republic of) earthquake
+1977,Earthquake,Iran (Islamic Republic of),27.69 N,56.57 E,3,iran (islamic republic of) earthquake
+1977,Earthquake,Iran (Islamic Republic of),30.95,56.47,589,iran (islamic republic of) earthquake
+1977,Earthquake,Philippines (the),16.773,122.327,1,philippines (the) earthquake
+1977,Earthquake,Romania,45.772,26.761,1641,romania earthquake
+1977,Earthquake,Tonga,-22.878,-175.9,1,tonga earthquake
+1977,Earthquake,Turkey,38.56,40.02,30,turkey earthquake
+1978,Earthquake,Japan,34.809,139.259,25,japan earthquake
+1978,Earthquake,Italy,38.391,15.066,5,italy earthquake
+1978,Earthquake,Japan,38.19,142.028,28,japan earthquake
+1977,Volcanic activity,Congo (the Democratic Republic of the),-1.52,29.25,147,congo (the democratic republic of the) volcanic activity
+1978,Earthquake,Germany Fed Rep,48.29,9.01,0,germany fed rep earthquake
+1979,Earthquake,Guatemala,14.321,-90.082,0,guatemala earthquake
+1979,Earthquake,Colombia,1.598,-79.358,579,colombia earthquake
+1979,Earthquake,Albania,42.096,19.209,35,albania earthquake
+1979,Earthquake,China,31.452,119.241,42,china earthquake
+1979,Earthquake,China,41.145,108.129,0,china earthquake
+1979,Earthquake,Colombia,4.805,-76.217,60,colombia earthquake
+1979,Earthquake,France,43.70 N,7.25 E,11,france earthquake
+1980,Earthquake,Algeria,36.195,1.354,2633,algeria earthquake
+1980,Earthquake,Azores Islands,38.815,-27.78,69,azores islands earthquake
+1980,Earthquake,Ecuador,-1.948,-80.017,8,ecuador earthquake
+1980,Earthquake,Greece,39.203,22.729,1,greece earthquake
+1981,Earthquake,Colombia,8.117,-72.527,10,colombia earthquake
+1981,Earthquake,Greece,39.481,20.699,2,greece earthquake
+1981,Earthquake,China,30.927,101.098,150,china earthquake
+1981,Earthquake,Greece,38.222,22.934,22,greece earthquake
+1982,Earthquake,Afghanistan,36.148,69.011,500,afghanistan earthquake
+1982,Earthquake,Albania,40.883,19.59,1,albania earthquake
+1982,Earthquake,China,31.907,99.931,10,china earthquake
+1983,Earthquake,Costa Rica,9.652,-83.688,2,costa rica earthquake
+1983,Earthquake,Afghanistan,34.01 N,71.40 E,12,afghanistan earthquake
+1983,Earthquake,Belgium,50.37 N,5.31 E,2,belgium earthquake
+1983,Earthquake,Chile,-26.535,-70.563,4,chile earthquake
+1983,Earthquake,China,35.206,115.213,34,china earthquake
+1983,Earthquake,Colombia,2.461,-76.686,250,colombia earthquake
+1983,Earthquake,Costa Rica,8.717,-83.123,10,costa rica earthquake
+1983,Earthquake,Guinea,11.866,-13.529,275,guinea earthquake
+1983,Earthquake,Greece,38.294,20.262,0,greece earthquake
+1984,Earthquake,Afghanistan,34.26 N,70.28 E,1,afghanistan earthquake
+1985,Earthquake,Argentina,-33.053,-68.467,6,argentina earthquake
+1985,Earthquake,Chile,-33.135,-71.871,180,chile earthquake
+1985,Earthquake,China,25.926,102.871,22,china earthquake
+1985,Earthquake,China,39.431,75.224,67,china earthquake
+1985,Earthquake,Algeria,36.46,6.791,30,algeria earthquake
+1985,Earthquake,Guatemala,15.299,-90.863,0,guatemala earthquake
+1986,Earthquake,Bulgaria,43.12 N,25.57 E,3,bulgaria earthquake
+1986,Earthquake,Brazil,3.58 S,62.42 W,1,brazil earthquake
+1986,Earthquake,China,31.240 N,86.847 E,0,china earthquake
+1986,Earthquake,Greece,37.02 N,22.07 E,20,greece earthquake
+1986,Earthquake,Guatemala,15.075 N,92.072 W,0,guatemala earthquake
+1987,Earthquake,Chile,-19.022,-69.991,5,chile earthquake
+1987,Earthquake,Ecuador,0.151,-77.785,5000,ecuador earthquake
+1987,Earthquake,Ecuador,-0.978,-78.05,2,ecuador earthquake
+1987,Earthquake,China,41.529,79.318,0,china earthquake
+1987,Earthquake,China,24.924,115.608,0,china earthquake
+1987,Earthquake,Algeria,35.964,1.374,1,algeria earthquake
+1988,Earthquake,Greece,37.938,20.932,0,greece earthquake
+1988,Earthquake,Guatemala,13.881,-90.45,5,guatemala earthquake
+1988,Earthquake,Bangladesh,24.688,991.57,2,bangladesh earthquake
+1988,Earthquake,China,38.111,106.336,0,china earthquake
+1988,Earthquake,China,22.789,99.611,939,china earthquake
+1988,Earthquake,Algeria,36.443,2.759,0,algeria earthquake
+1988,Earthquake,Guatemala,13.881,-90.45,0,guatemala earthquake
+1978,Earthquake,Iran (Islamic Republic of),33.386,57.434,25000,iran (islamic republic of) earthquake
+1978,Earthquake,Iran (Islamic Republic of),32.14,49.65,45,iran (islamic republic of) earthquake
+1978,Earthquake,Mexico,16.01,-96.591,9,mexico earthquake
+1979,Earthquake,Indonesia,-1.679,136.04,2,indonesia earthquake
+1979,Earthquake,Indonesia,8.8,123.5,539,indonesia earthquake
+1979,Earthquake,Indonesia,8.21 S,115.95 E,34,indonesia earthquake
+1979,Earthquake,Indonesia,-7.656,108.252,26,indonesia earthquake
+1979,Earthquake,Indonesia,-3.299,102.712,5,indonesia earthquake
+1979,Earthquake,Indonesia,-8.39,115.889,32,indonesia earthquake
+1979,Earthquake,Iran (Islamic Republic of),33.897,59.472,199,iran (islamic republic of) earthquake
+1979,Earthquake,Iran (Islamic Republic of),33.918,59.741,350,iran (islamic republic of) earthquake
+1979,Earthquake,Iran (Islamic Republic of),33.962,59.726,16,iran (islamic republic of) earthquake
+1979,Earthquake,Italy,42.812,13.061,5,italy earthquake
+1979,Volcanic activity,Italy,37.734,15.004,9,italy volcanic activity
+1979,Earthquake,Mexico,17.813,-101.276,5,mexico earthquake
+1979,Earthquake,Peru,-16.39,-72.658,13,peru earthquake
+1980,Earthquake,India,32.913,75.633,13,india earthquake
+1980,Earthquake,Iran (Islamic Republic of),34.587,50.652,20,iran (islamic republic of) earthquake
+1980,Earthquake,Iran (Islamic Republic of),34.503,50.59,4,iran (islamic republic of) earthquake
+1980,Earthquake,Iran (Islamic Republic of),35.4,51.26,26,iran (islamic republic of) earthquake
+1980,Earthquake,Italy,40.914,15.366,4689,italy earthquake
+1980,Earthquake,Japan,35.45,139.964,2,japan earthquake
+1980,Earthquake,Mexico,32.2,-115.122,2,mexico earthquake
+1980,Earthquake,Mexico,18.211,-98.24,65,mexico earthquake
+1980,Earthquake,Nepal,29.598,81.092,100,nepal earthquake
+1980,Earthquake,Peru,-13.347,-74.545,7,peru earthquake
+1981,Earthquake,Indonesia,-4.576,139.232,306,indonesia earthquake
+1981,Earthquake,Pakistan,35.693,73.594,250,pakistan earthquake
+1981,Earthquake,Iran (Islamic Republic of),29.913,57.715,2000,iran (islamic republic of) earthquake
+1981,Earthquake,Iran (Islamic Republic of),30.013,57.794,1200,iran (islamic republic of) earthquake
+1981,Earthquake,Italy,37.67 N,12.47 E,0,italy earthquake
+1981,Earthquake,Italy,41.051,14.601,12,italy earthquake
+1981,Earthquake,Mexico,18.048,-102.084,3,mexico earthquake
+1981,Earthquake,Pakistan,29.856,66.962,6,pakistan earthquake
+1981,Earthquake,Peru,-13.166,-74.522,10,peru earthquake
+1981,Earthquake,Peru,-13.144,-74.376,8,peru earthquake
+1982,Earthquake,Indonesia,-8.405,123.08,13,indonesia earthquake
+1982,Earthquake,Indonesia,4.374,97.755,0,indonesia earthquake
+1982,Earthquake,Japan,42.158,142.361,110,japan earthquake
+1982,Earthquake,Honduras,14.53 N,87.72 W,0,honduras earthquake
+1982,Earthquake,Italy,43.164,12.586,0,italy earthquake
+1982,Earthquake,Mexico,16.558,-98.358,9,mexico earthquake
+1982,Earthquake,Peru,-12.69,-76.065,3,peru earthquake
+1982,Earthquake,Poland,50.21 N,18.51 E,0,poland earthquake
+1983,Earthquake,Philippines (the),18.231,120.86,19,philippines (the) earthquake
+1983,Earthquake,Iran (Islamic Republic of),35.953,52.264,30,iran (islamic republic of) earthquake
+1983,Earthquake,Japan,35.5,139.07,1,japan earthquake
+1983,Earthquake,Japan,40.462,139.102,102,japan earthquake
+1983,Earthquake,Indonesia,5.723,94.722,0,indonesia earthquake
+1983,Earthquake,Iran (Islamic Republic of),36.948,49.18,3,iran (islamic republic of) earthquake
+1983,Earthquake,Italy,40.50 N,14.15 E,0,italy earthquake
+1983,Earthquake,Pakistan,36.372,70.738,24,pakistan earthquake
+1983,Earthquake,Peru,-4.843,-78.103,10,peru earthquake
+1983,Earthquake,Papua New Guinea,5.392,151.868,10,papua new guinea earthquake
+1983,Volcanic activity,Papua New Guinea,-4.271,152.203,0,papua new guinea volcanic activity
+1984,Earthquake,Japan,36.39 N,138.10 E,20,japan earthquake
+1984,Earthquake,Japan,32.50 N,130.42 E,0,japan earthquake
+1984,Earthquake,Indonesia,2.41 S,118.55 E,2,indonesia earthquake
+1984,Earthquake,Indonesia,1.3 S,98.0 E,0,indonesia earthquake
+1984,Earthquake,India,24.40 N,92.34 E,20,india earthquake
+1984,Earthquake,Italy,43.07 N,12.23 E,0,italy earthquake
+1984,Earthquake,Italy,42.10 N,13.50 E,3,italy earthquake
+1984,Earthquake,Italy,37.31 N,15.06 E,1,italy earthquake
+1984,Earthquake,Pakistan,34.07 N,71.15 E,4,pakistan earthquake
+1985,Earthquake,Indonesia,-4.13,136.049,10,indonesia earthquake
+1985,Earthquake,Iran (Islamic Republic of),28.399,52.997,1,iran (islamic republic of) earthquake
+1985,Earthquake,Mexico,18.19,-102.533,9500,mexico earthquake
+1985,Earthquake,Pakistan,36.19,70.896,5,pakistan earthquake
+1985,Earthquake,Peru,-9.159,-78.887,0,peru earthquake
+1985,Earthquake,Philippines (the),7.758,123.544,2,philippines (the) earthquake
+1985,Earthquake,Papua New Guinea,-5.599,151.045,0,papua new guinea earthquake
+1986,Earthquake,Papua New Guinea,4.0 S,142.0 E,0,papua new guinea earthquake
+1986,Earthquake,India,32.128 N,76.374 E,6,india earthquake
+1986,Earthquake,Iran (Islamic Republic of),29.962 N,51.582 E,1,iran (islamic republic of) earthquake
+1986,Earthquake,Iran (Islamic Republic of),29.985 N,51.623 E,0,iran (islamic republic of) earthquake
+1986,Earthquake,Pakistan,27.727 N,66.650 E,0,pakistan earthquake
+1986,Earthquake,Peru,13.32 S,71.57 W,15,peru earthquake
+1986,Earthquake,Peru,9.505 S,77.512 W,1,peru earthquake
+1987,Earthquake,Indonesia,-8.247,124.155,125,indonesia earthquake
+1987,Earthquake,Papua New Guinea,-6.088,147.689,1,papua new guinea earthquake
+1987,Earthquake,Indonesia,2.244,98.866,2,indonesia earthquake
+1987,Earthquake,Iran (Islamic Republic of),34.076,48.266,2,iran (islamic republic of) earthquake
+1987,Earthquake,Japan,35.38,140.214,2,japan earthquake
+1987,Earthquake,Mexico,33.015,-115.852,2,mexico earthquake
+1987,Earthquake,New Zealand,-37.965,176.765,1,new zealand earthquake
+1988,Earthquake,India,26.755,616,382,india earthquake
+1988,Earthquake,Iran (Islamic Republic of),29.974,51.679,1,iran (islamic republic of) earthquake
+1988,Earthquake,Iran (Islamic Republic of),30.89,50.194,0,iran (islamic republic of) earthquake
+1988,Earthquake,Nepal,26.755,86.616,709,nepal earthquake
+1978,Earthquake,Turkey,36.69,39.79,0,turkey earthquake
+1979,Earthquake,Yugoslavia,42.096,19.209,121,yugoslavia earthquake
+1979,Earthquake,Yugoslavia,42.255,18.752,0,yugoslavia earthquake
+1980,Earthquake,Yugoslavia,43.294,20.837,0,yugoslavia earthquake
+1980,Earthquake,Venezuela (Bolivarian Republic of),8.045,-72.441,0,venezuela (bolivarian republic of) earthquake
+1981,Earthquake,Yugoslavia,44.849,17.312,0,yugoslavia earthquake
+1982,Earthquake,El Salvador,13.332,-89.387,20,el salvador earthquake
+1982,Earthquake,Yemen Arab Rep,14.701,44.379,1507,yemen arab rep earthquake
+1983,Earthquake,United States of America (the),19.43,-155.454,0,united states of america (the) earthquake
+1983,Earthquake,Soviet Union,39.042,48.714,0,soviet union earthquake
+1983,Earthquake,Turkey,40.33,42.187,1346,turkey earthquake
+1983,Earthquake,United States of America (the),36.219,-120.317,0,united states of america (the) earthquake
+1983,Earthquake,United States of America (the),43.974,-113.916,2,united states of america (the) earthquake
+1983,Earthquake,Yugoslavia,41.959,21.54,12,yugoslavia earthquake
+1984,Earthquake,Turkey,40.89 N,42.22 E,3,turkey earthquake
+1984,Earthquake,Turkey,40.55 N,42.40 E,3,turkey earthquake
+1985,Earthquake,Soviet Union,36.19,70.896,0,soviet union earthquake
+1985,Earthquake,Soviet Union,40.301,69.823,29,soviet union earthquake
+1985,Earthquake,Turkey,40.31,42.307,0,turkey earthquake
+1985,Earthquake,Yugoslavia,41.581,22.254,0,yugoslavia earthquake
+1986,Earthquake,El Salvador,13.40 N,89.10 W,1100,el salvador earthquake
+1986,Earthquake,Soviet Union,26,46.5,1,soviet union earthquake
+1986,Earthquake,Soviet Union,41.431,43.737,2,soviet union earthquake
+1986,Earthquake,Turkey,37.993 N,37.806 E,15,turkey earthquake
+1986,Earthquake,Turkey,37.931 N,28.574 E,0,turkey earthquake
+1986,Earthquake,United States of America (the),32.978 N,117.858 W,0,united states of america (the) earthquake
+1986,Earthquake,Venezuela (Bolivarian Republic of),10.770 N,69.428 W,1,venezuela (bolivarian republic of) earthquake
+1987,Earthquake,United States of America (the),34.061,-118.079,8,united states of america (the) earthquake
+1987,Earthquake,United States of America (the),33.013,115.838,0,united states of america (the) earthquake
+1988,Earthquake,Uganda,3.02 N,30.56 E,0,uganda earthquake
+1988,Earthquake,Soviet Union,40.987,44.185,25000,soviet union earthquake
+1988,Earthquake,Albania,41.246,19.63,0,albania earthquake
+1989,Earthquake,Algeria,36.788,2.448,22,algeria earthquake
+1989,Earthquake,Australia,-32.967,151.619,12,australia earthquake
+1989,Earthquake,Bangladesh,21.861,89.763,1,bangladesh earthquake
+1989,Earthquake,China,29.987,99.195,8,china earthquake
+1989,Earthquake,China,39.893,113.884,29,china earthquake
+1989,Earthquake,China,23.553,99.526,1,china earthquake
+1989,Earthquake,China,29.882,106.804,4,china earthquake
+1989,Earthquake,China,31.583,102.433,0,china earthquake
+1990,Earthquake,Ecuador,0.259 S,78.449 W,4,ecuador earthquake
+1990,Earthquake,Bulgaria,45.841,26.668,1,bulgaria earthquake
+1990,Earthquake,China,37.001 N,103.863 E,1,china earthquake
+1990,Earthquake,China,35.986 N,100.245 E,126,china earthquake
+1990,Earthquake,Costa Rica,9.869 N,84.302 W ,1,costa rica earthquake
+1990,Earthquake,Costa Rica,9.919 N,84.808 W,0,costa rica earthquake
+1991,Earthquake,Afghanistan,37.457 N,68.273 E,24,afghanistan earthquake
+1991,Earthquake,Costa Rica,9.685 N,83.073 W,47,costa rica earthquake
+1991,Earthquake,Afghanistan,38.993 N,70.423 E,130,afghanistan earthquake
+1991,Volcanic activity,Argentina,45.54 S,72.58 W,0,argentina volcanic activity
+1991,Volcanic activity,Chile,45.54 S,72.58 W,0,chile volcanic activity
+1991,Earthquake,China,40.3 N,78.9. E,0,china earthquake
+1991,Earthquake,China,39.8 N,173.9 E,1,china earthquake
+1991,Earthquake,Colombia,3.554 N,77.442 W,2,colombia earthquake
+1991,Earthquake,Costa Rica,9.59 N,84.04 W,0,costa rica earthquake
+1991,Earthquake,Costa Rica,9.542 N,82.418 W,0,costa rica earthquake
+1991,Volcanic activity,Costa Rica,14.40 N,90.60 W,0,costa rica volcanic activity
+1992,Earthquake,Colombia,7.123 N,7 W.887 ,11,colombia earthquake
+1992,Earthquake,Afghanistan,33.377 N,71.317 E,14,afghanistan earthquake
+1992,Earthquake,Belgium,51.153 N,5.798 E,0,belgium earthquake
+1992,Earthquake,China,29.41 N,91.10 E,0,china earthquake
+1992,Earthquake,Cuba,19.9 N,77.5 W,0,cuba earthquake
+1992,Earthquake,Germany,51.153Â° N,5.798Â° E,1,germany earthquake
+1992,Earthquake,Algeria,36.50 N,3.00 E,0,algeria earthquake
+1992,Earthquake,Egypt,29.888 N,31.223 E,552,egypt earthquake
+1993,Earthquake,China,23.027 N,101.062 E,0,china earthquake
+1993,Earthquake,Colombia,6.47,-71.210,2,colombia earthquake
+1993,Volcanic activity,Colombia,1.2 N,77.4 W,10,colombia volcanic activity
+1993,Earthquake,Costa Rica,9.59 N,84.04 W,3,costa rica earthquake
+1989,Earthquake,Indonesia,-4.511,139.022,120,indonesia earthquake
+1989,Earthquake,Iran (Islamic Republic of),30.960 N,51.421 E,0,iran (islamic republic of) earthquake
+1989,Earthquake,Indonesia,1.031,126.189,0,indonesia earthquake
+1989,Earthquake,Indonesia,-8.081,125.129,0,indonesia earthquake
+1989,Earthquake,Iran (Islamic Republic of),30.167,50.921,100,iran (islamic republic of) earthquake
+1989,Earthquake,Mexico,16.773,-99.328,3,mexico earthquake
+1989,Earthquake,Malawi,13.45 S,34.29 E,9,malawi earthquake
+1990,Earthquake,Indonesia,3.908 N,97.457 E,1,indonesia earthquake
+1990,Earthquake,Iran (Islamic Republic of),36.961,49.414,40000,iran (islamic republic of) earthquake
+1990,Earthquake,Philippines (the),15.658 N,121.227 E,2412,philippines (the) earthquake
+1990,Earthquake,Philippines (the),9.725,124.625,1,philippines (the) earthquake
+1990,Earthquake,Peru,-6.016,-77.229,200,peru earthquake
+1990,Earthquake,Fiji,22.122 S,175.163 E,0,fiji earthquake
+1990,Earthquake,Fiji,21.363 S,176.582 W,0,fiji earthquake
+1990,Earthquake,United Kingdom of Great Britain and Northern Ireland (the),52.314 N,2.985 W,0,united kingdom of great britain and northern ireland (the) earthquake
+1990,Earthquake,Greece,40.9 N,22.5 E,1,greece earthquake
+1990,Earthquake,Greece,38.00 N,23.44 E,0,greece earthquake
+1990,Earthquake,Indonesia,1.186,122.857,5,indonesia earthquake
+1990,Earthquake,Indonesia,9.904 S,101.120 E,0,indonesia earthquake
+1990,Volcanic activity,Indonesia,7.9 S,112.3 E,33,indonesia volcanic activity
+1990,Earthquake,Iran (Islamic Republic of),28.251 N,55.462 E,21,iran (islamic republic of) earthquake
+1990,Earthquake,Italy,40.38 N,15.48 E,2,italy earthquake
+1990,Earthquake,Italy,37.300 N,15.438 E,19,italy earthquake
+1990,Earthquake,Kenya,5.289 N,31.859 E,0,kenya earthquake
+1990,Earthquake,Nicaragua,11.426 N,86.301 W,0,nicaragua earthquake
+1990,Earthquake,Pakistan,35.121 N,70.486 E,11,pakistan earthquake
+1990,Earthquake,Pakistan,28.925 N,66.331 E,11,pakistan earthquake
+1990,Earthquake,Pakistan,27.429 N,65.79 E,0,pakistan earthquake
+1990,Volcanic activity,Peru,15.78 S,71.85 W,0,peru volcanic activity
+1990,Earthquake,Philippines (the),11.76,121.899,4,philippines (the) earthquake
+1990,Earthquake,Papua New Guinea,3.5 S,144 E,0,papua new guinea earthquake
+1990,Earthquake,Romania,45.841,26.668,9,romania earthquake
+1991,Volcanic activity,Philippines (the),15.13 N,120.35 E,640,philippines (the) volcanic activity
+1991,Earthquake,Panama,9.685 N,83.073 W,30,panama earthquake
+1991,Earthquake,Georgia,42.8 N,44 E,8,georgia earthquake
+1991,Earthquake,Guatemala,14.646 N,90.986 W,14,guatemala earthquake
+1991,Earthquake,India,30.780 N,78.774 E,1500,india earthquake
+1991,Earthquake,Peru,15.679 S,71.274 W,11,peru earthquake
+1991,Earthquake,Romania,44.888 N,22.407 E,0,romania earthquake
+1991,Earthquake,Indonesia,1.196 N,122.787 E,0,indonesia earthquake
+1991,Earthquake,Indonesia,8.099 S,125.681 E,28,indonesia earthquake
+1991,Volcanic activity,Indonesia,1.36 N,124.79 E,0,indonesia volcanic activity
+1991,Earthquake,Iran (Islamic Republic of),30.6 N,50.2 E,0,iran (islamic republic of) earthquake
+1991,Earthquake,Iraq,36.12 N,44.01 E,20,iraq earthquake
+1991,Volcanic activity,Italy,37.734,15.004,0,italy volcanic activity
+1991,Volcanic activity,Japan,32.75 N,130.3 E,43,japan volcanic activity
+1991,Earthquake,Myanmar,23.5 N,96.3 E,0,myanmar earthquake
+1991,Earthquake,Pakistan,38.993,70.423,300,pakistan earthquake
+1991,Earthquake,Panama,9.542 N,82.418 W,0,panama earthquake
+1991,Earthquake,Peru,5.982 S S,77.094 W,53,peru earthquake
+1991,Volcanic activity,Philippines (the),14 N,121 E,0,philippines (the) volcanic activity
+1991,Earthquake,Romania,45.5 N,21.3 E,0,romania earthquake
+1992,Earthquake,Georgia,42.503 N,45.073 E,1,georgia earthquake
+1992,Earthquake,Iran (Islamic Republic of),31.726 N,50.778 E,5,iran (islamic republic of) earthquake
+1992,Earthquake,Kyrgyzstan,42.142 N,73.575 E,54,kyrgyzstan earthquake
+1992,Earthquake,Indonesia,8.482 S,121.930 E,2500,indonesia earthquake
+1992,Earthquake,Nicaragua,11.742 N,87.340 W,179,nicaragua earthquake
+1992,Volcanic activity,Guatemala,14.40 N,90.60 W,0,guatemala volcanic activity
+1992,Earthquake,Indonesia,7.138 S,109.067 E,0,indonesia earthquake
+1992,Earthquake,Japan,35.106 N,139.644 E,0,japan earthquake
+1992,Volcanic activity,Japan,32.75 N,130.3 E,0,japan volcanic activity
+1992,Earthquake,Kyrgyzstan,42.01 N,74.01 E,4,kyrgyzstan earthquake
+1992,Volcanic activity,Nicaragua,12.5 N,86.7 W,1,nicaragua volcanic activity
+1992,Earthquake,Netherlands (the),51.153 N,5.798 E,0,netherlands (the) earthquake
+1992,Earthquake,Pakistan,29.3 N,66.7 E,4,pakistan earthquake
+1992,Earthquake,Pakistan,33.377 N,71.317 E,36,pakistan earthquake
+1992,Volcanic activity,Philippines (the),14 N,121 E,0,philippines (the) volcanic activity
+1992,Volcanic activity,Papua New Guinea,-4.08,145.037,0,papua new guinea volcanic activity
+1993,Earthquake,Japan,42.851 N,139.197 E,239,japan earthquake
+1993,Earthquake,Guam,12.982 N,144.801 E,0,guam earthquake
+1993,Earthquake,Japan,43.300 N,143.691 E,2,japan earthquake
+1993,Earthquake,Peru,11.652 S,76.530 W,6,peru earthquake
+1993,Earthquake,Papua New Guinea,5.889 S,146.202 E,53,papua new guinea earthquake
+1993,Earthquake,Greece,37.589 N,21.391 E,1,greece earthquake
+1993,Earthquake,Greece,38.224 N,21.756 E,0,greece earthquake
+1993,Volcanic activity,Indonesia,6.3 S,106 E,2,indonesia volcanic activity
+1993,Earthquake,India,16.40 N,74.20 E,9748,india earthquake
+1993,Earthquake,India,18.120 N,76.533 E,0,india earthquake
+1993,Earthquake,Iran (Islamic Republic of),30.149 N,50.814 E,24,iran (islamic republic of) earthquake
+1993,Earthquake,Iran (Islamic Republic of),32.104 N,60.088 E,0,iran (islamic republic of) earthquake
+1993,Volcanic activity,Japan,32.75 N,130.3 E,1,japan volcanic activity
+1993,Earthquake,Mexico,16.755 N,98.717 W,0,mexico earthquake
+1993,Earthquake,Nepal,28.723 N,82.280 E,0,nepal earthquake
+1993,Volcanic activity,Philippines (the),13.3 N,123.7 E,79,philippines (the) volcanic activity
+1994,Earthquake,Indonesia,4.967 S,104.302 E,207,indonesia earthquake
+1994,Earthquake,Iran (Islamic Republic of),29.096 N,52.617 E,3,iran (islamic republic of) earthquake
+1994,Earthquake,Indonesia,1.015 N,127.733 E,7,indonesia earthquake
+1994,Volcanic activity,Indonesia,8.1 S,112.9 E,7,indonesia volcanic activity
+1994,Earthquake,Iran (Islamic Republic of),30.853 N,60.596 E,9,iran (islamic republic of) earthquake
+1988,Earthquake,Solomon Islands,-10.199,160.855,1,solomon islands earthquake
+1989,Earthquake,Soviet Union,38.465,68.694,274,soviet union earthquake
+1989,Earthquake,United States of America (the),37.036,-121.88,62,united states of america (the) earthquake
+1989,Earthquake,United States of America (the),19.362,-155.083,5,united states of america (the) earthquake
+1989,Earthquake,Venezuela (Bolivarian Republic of),11.038,-68.27,0,venezuela (bolivarian republic of) earthquake
+1990,Earthquake,Sudan (the),5.041 N,32.109 E,0,sudan (the) earthquake
+1990,Earthquake,Soviet Union,45.841,26.668,4,soviet union earthquake
+1990,Earthquake,Soviet Union,47.892,85.12,1,soviet union earthquake
+1990,Earthquake,Soviet Union,47.949,84.958,0,soviet union earthquake
+1990,Earthquake,Soviet Union,40.854,73.553,0,soviet union earthquake
+1990,Earthquake,Uganda,5.345 N,31.908 E,0,uganda earthquake
+1990,Earthquake,United States of America (the),34.140 N,117.70 W,0,united states of america (the) earthquake
+1990,Earthquake,United States of America (the),37.885 N,121.983 W,0,united states of america (the) earthquake
+1990,Earthquake,Vanuatu,15.465 S,166.385 E,0,vanuatu earthquake
+1990,Earthquake,Vanuatu,18.318 S,168.063 E,0,vanuatu earthquake
+1990,Earthquake,Vanuatu,15.319 S,167.396 E,0,vanuatu earthquake
+1990,Earthquake,South Africa,26.390 S,27.349 E,10,south africa earthquake
+1991,Earthquake,Soviet Union,42.15,42.44,270,soviet union earthquake
+1991,Earthquake,Soviet Union,35.883,70.423,3,soviet union earthquake
+1991,Earthquake,Soviet Union,60.7,167.2,0,soviet union earthquake
+1991,Earthquake,Soviet Union,37.457,68.273,1,soviet union earthquake
+1991,Earthquake,United States of America (the),34.10 N,118.09 W,2,united states of america (the) earthquake
+1991,Earthquake,Yemen,13.887 N,44.068 E,10,yemen earthquake
+1992,Earthquake,Turkey,39.710 N,39.605 E,653,turkey earthquake
+1992,Earthquake,Uzbekistan,41.019 N,72.429 E,9,uzbekistan earthquake
+1992,Earthquake,United States of America (the),40.415 N,124.603 W,0,united states of america (the) earthquake
+1992,Earthquake,United States of America (the),34.00 N ,118.15 W,1,united states of america (the) earthquake
+1992,Earthquake,United States of America (the),33.961,-116.32,0,united states of america (the) earthquake
+1992,Earthquake,Congo (the Democratic Republic of the),6.087 S,26.651 E,9,congo (the democratic republic of the) earthquake
+1993,Earthquake,Sudan (the),15.385 N,31.690 E,3,sudan (the) earthquake
+1993,Earthquake,United States of America (the),42.314,-122.01,2,united states of america (the) earthquake
+1993,Earthquake,Wallis and Futuna,14.385 S,178.252 W,5,wallis and futuna earthquake
+1994,Earthquake,United States of America (the),0.34 N,30.12 E,60,united states of america (the) earthquake
+1994,Earthquake,Uganda,0.593 N,30.037 E,7,uganda earthquake
+1994,Earthquake,Bolivia (Plurinational State of),13.841 S,67.553 W,5,bolivia (plurinational state of) earthquake
+1994,Earthquake,Afghanistan,37.0 N,67.0 E,160,afghanistan earthquake
+1994,Earthquake,Australia,32.956 S,151.228 E,0,australia earthquake
+1994,Earthquake,China,22.52 N,118.7 E,1,china earthquake
+1994,Earthquake,China,20.485 N,109.406 E,0,china earthquake
+1994,Earthquake,China,36.028 N,100.104 E,0,china earthquake
+1995,Earthquake,Chile,23.34 S,70.36 W,3,chile earthquake
+1995,Earthquake,China,21.966 N,99.196 E,11,china earthquake
+1995,Earthquake,China,25.9 N,102.2 E,46,china earthquake
+1995,Earthquake,China,36.443 N,103.105 E,14,china earthquake
+1996,Earthquake,Afghanistan,36.0 N,65.0 E ,0,afghanistan earthquake
+1996,Earthquake,China,25.04 N,102.41 E,309,china earthquake
+1996,Earthquake,China,40.774 N,109.661 E,18,china earthquake
+1996,Earthquake,China,39.28 N ,76.44 E,26,china earthquake
+1996,Earthquake,China,26.51 N,100.16 E,0,china earthquake
+1997,Earthquake,Chile,-30.933,-71.22,8,chile earthquake
+1997,Earthquake,Afghanistan,33.825 N,59.809 E,5,afghanistan earthquake
+1997,Earthquake,Armenia,41.101,45.14,0,armenia earthquake
+1997,Earthquake,Bangladesh,22.212 N,92.702 E,23,bangladesh earthquake
+1997,Earthquake,China,39.474 N,76.998 E E,12,china earthquake
+1997,Earthquake,China,39.3 N,76.5 E,9,china earthquake
+1997,Earthquake,China,39.422 N,76.839 E,2,china earthquake
+1997,Earthquake,China,39.527 N,76.941 E,9,china earthquake
+1998,Earthquake,China,41.083,114.5,49,china earthquake
+1998,Earthquake,Afghanistan,37.106,70.11,4700,afghanistan earthquake
+1998,Earthquake,Afghanistan,37.075,70.089,2323,afghanistan earthquake
+1998,Earthquake,Austria,46.245,13.652,0,austria earthquake
+1998,Earthquake,Azerbaijan,38.717,48.507,1,azerbaijan earthquake
+1998,Earthquake,Azores Islands,38.65,-28.626,10,azores islands earthquake
+1998,Earthquake,Bolivia (Plurinational State of),-17.731,-65.431,95,bolivia (plurinational state of) earthquake
+1994,Earthquake,Colombia,30.0 N ,76.2 W,271,colombia earthquake
+1994,Earthquake,Iran (Islamic Republic of),29.21 N,52.5 E,2,iran (islamic republic of) earthquake
+1994,Earthquake,Indonesia,10.20 S,13.2 E ,239,indonesia earthquake
+1994,Earthquake,Indonesia,1.14 S,128.5 E,1,indonesia earthquake
+1994,Earthquake,Japan,45.10 N,147.51 E,5,japan earthquake
+1994,Earthquake,Algeria,35.52 N,00.12 W,171,algeria earthquake
+1994,Earthquake,Indonesia,2.001 S,135.931 E,0,indonesia earthquake
+1994,Volcanic activity,Indonesia,7.5 S,110.4 E,58,indonesia volcanic activity
+1994,Earthquake,Japan,40.5 N,143.4 E,2,japan earthquake
+1994,Volcanic activity,Mexico,19.50 N,103.60 W,0,mexico volcanic activity
+1994,Volcanic activity,Mexico,19.02 N,98.62 W,0,mexico volcanic activity
+1994,Earthquake,Philippines (the),13.352 N,121.087 E,81,philippines (the) earthquake
+1994,Earthquake,Philippines (the),7.972 N,123.189 E,0,philippines (the) earthquake
+1995,Earthquake,Indonesia,40.1 N,21.6 E,15,indonesia earthquake
+1995,Earthquake,Japan,34.58 N,135.0 E ,5297,japan earthquake
+1995,Earthquake,Colombia,4.9 N,73.1 W,7,colombia earthquake
+1995,Earthquake,Indonesia,2.1 S,101.3 E,84,indonesia earthquake
+1995,Earthquake,Colombia,4.1 N,76.6 W,40,colombia earthquake
+1995,Earthquake,Colombia,1.12 N,77.17 W,8,colombia earthquake
+1995,Earthquake,Cyprus,35.1 N,32.3 E,2,cyprus earthquake
+1995,Earthquake,Ecuador,2.13 S,79.54 W,1,ecuador earthquake
+1995,Earthquake,Ecuador,2.7 S,77.8 W,2,ecuador earthquake
+1995,Earthquake,Egypt,28.8 N,34.8 E,10,egypt earthquake
+1995,Earthquake,Greece,40.1 N,21.6 E,26,greece earthquake
+1995,Earthquake,Greece,38.4 N,22.2 E,26,greece earthquake
+1995,Earthquake,Indonesia,1.02 S,120.5 E,0,indonesia earthquake
+1995,Earthquake,Japan,37.925 N,139.186 E,0,japan earthquake
+1995,Earthquake,Mexico,16.8 N,98.6 W,6,mexico earthquake
+1995,Earthquake,Mexico,16.2 N,104.1 E,58,mexico earthquake
+1995,Earthquake,Mexico,16.8 N,93.4 W,0,mexico earthquake
+1995,Earthquake,Myanmar,21.966 N,99.196 E,0,myanmar earthquake
+1995,Volcanic activity,Nicaragua,12.5 N,86.7 W,0,nicaragua volcanic activity
+1995,Volcanic activity,New Zealand,39.28 S,175.57 E,0,new zealand volcanic activity
+1995,Earthquake,Philippines (the),12.01 N,125.6 E,0,philippines (the) earthquake
+1996,Earthquake,Indonesia,0.729,119.931,9,indonesia earthquake
+1996,Earthquake,Indonesia,1.1,137.15,166,indonesia earthquake
+1996,Earthquake,Ecuador,0.68 S,78.30 W ,27,ecuador earthquake
+1996,Earthquake,Greece,40.03 N,20.45 E,0,greece earthquake
+1996,Volcanic activity,Guatemala,14.4 N,90.6 W,0,guatemala volcanic activity
+1996,Earthquake,Croatia,42.70 N,18. E,0,croatia earthquake
+1996,Volcanic activity,Iceland,64.42 N, 17.33 W,0,iceland volcanic activity
+1996,Earthquake,Peru,14.9 S,75.7 W,14,peru earthquake
+1996,Earthquake,Peru,9.593 S,79.587 W,7,peru earthquake
+1997,Earthquake,Iran (Islamic Republic of),33.825 N,59.809 E,1568,iran (islamic republic of) earthquake
+1997,Earthquake,Pakistan,29.976 N,68.208 E,50,pakistan earthquake
+1997,Earthquake,Indonesia,4.00 S,119.40 E,20,indonesia earthquake
+1997,Volcanic activity,Indonesia,7.32 S,110.26 E,1,indonesia volcanic activity
+1997,Earthquake,India,23.083 N,80.041 E,43,india earthquake
+1997,Earthquake,Iran (Islamic Republic of),37.661 N,57.291 E,100,iran (islamic republic of) earthquake
+1997,Earthquake,Iran (Islamic Republic of),38.075 N,48.050 E,1100,iran (islamic republic of) earthquake
+1997,Earthquake,Iran (Islamic Republic of),33.938 N,71.872 W,0,iran (islamic republic of) earthquake
+1997,Earthquake,Italy,43.0 N,13.0 E,14,italy earthquake
+1997,Earthquake,Kyrgyzstan,41.4 N,74.20 E,0,kyrgyzstan earthquake
+1997,Earthquake,Mexico,17.31 N,101.16 W,1,mexico earthquake
+1997,Earthquake,Mexico,18 N,102.5 W,0,mexico earthquake
+1997,Volcanic activity,Mexico,19.02 N,98.38 W,20,mexico volcanic activity
+1997,Volcanic activity,Montserrat,16.45 N,62.14 W,32,montserrat volcanic activity
+1998,Volcanic activity,Costa Rica,10.50 N,84.70 E,0,costa rica volcanic activity
+1998,Earthquake,Ecuador,-0.593,-80.393,3,ecuador earthquake
+1998,Volcanic activity,Guatemala,14.40 N,90.60 W,0,guatemala volcanic activity
+1998,Volcanic activity,Indonesia,7.50 S,110.4 E,0,indonesia volcanic activity
+1998,Earthquake,Iran (Islamic Republic of),30.154,57.605,5,iran (islamic republic of) earthquake
+1998,Earthquake,Iran (Islamic Republic of),32.457,59.976,12,iran (islamic republic of) earthquake
+1998,Earthquake,Italy,43.164,12.701,0,italy earthquake
+1994,Earthquake,Russian Federation (the),45.10 N,147.51 E,11,russian federation (the) earthquake
+1994,Volcanic activity,Papua New Guinea,-4.271,152.203,5,papua new guinea volcanic activity
+1994,Earthquake,United States of America (the),34.17 N,118.27 W,0,united states of america (the) earthquake
+1994,Earthquake,Vanuatu,40.49 N,124.10 W,0,vanuatu earthquake
+1995,Earthquake,Russian Federation (the),52.5 N,142.9 E ,1989,russian federation (the) earthquake
+1995,Earthquake,Thailand,21.966 N,99.196 E,0,thailand earthquake
+1995,Earthquake,Turkey,38.0 N,30.1 E,94,turkey earthquake
+1996,Earthquake,Turkey,40.754 N,35.340 E,0,turkey earthquake
+1996,Volcanic activity,Papua New Guinea,4.3 S,152.2 E,0,papua new guinea volcanic activity
+1996,Volcanic activity,Papua New Guinea,-4.08,145.037,4,papua new guinea volcanic activity
+1997,Earthquake,Venezuela (Bolivarian Republic of),10.598 N,63.486 W,80,venezuela (bolivarian republic of) earthquake
+1997,Earthquake,Vanuatu,-12.584,166.676,0,vanuatu earthquake
+1997,Earthquake,Trinidad and Tobago,11.112 N,60.892 W,0,trinidad and tobago earthquake
+1997,Earthquake,South Africa,26.857 S,26.619 E,15,south africa earthquake
+1998,Earthquake,China,27.308,101.029,3,china earthquake
+1998,Earthquake,Papua New Guinea,-2.961,141.926,2182,papua new guinea earthquake
+1998,Earthquake,Slovenia,46.245,13.652,0,slovenia earthquake
+1998,Earthquake,Turkey,3.878,35.307,145,turkey earthquake
+1998,Earthquake,Turkey,36.874 N,35.321 E,0,turkey earthquake
+1998,Earthquake,Afghanistan,36.479,71.086,0,afghanistan earthquake
+1998,Earthquake,Albania,41.925,20.39,0,albania earthquake
+1998,Earthquake,China,26.373,104.021,0,china earthquake
+1998,Earthquake,China,39.977 N,76.731 E,0,china earthquake
+1998,Earthquake,China,37.388,78.843,0,china earthquake
+1998,Earthquake,China,39.66,77.343,3,china earthquake
+1998,Earthquake,China,27.213 N,101.057 E,0,china earthquake
+1999,Earthquake,Afghanistan,34.259,69.364,70,afghanistan earthquake
+1999,Earthquake,Azerbaijan,40.802,47.448,1,azerbaijan earthquake
+1999,Earthquake,Bangladesh,21.544,91.895,6,bangladesh earthquake
+1999,Earthquake,China,41.131,114.658,0,china earthquake
+1999,Earthquake,China,39.899,113.983,0,china earthquake
+1999,Earthquake,China,40.459,122.889,0,china earthquake
+2000,Earthquake,Azerbaijan,40.245,49.946,31,azerbaijan earthquake
+2000,Earthquake,Bangladesh,21.431,91.762,0,bangladesh earthquake
+2000,Earthquake,China,25.607,101.063,7,china earthquake
+2000,Earthquake,China,24.263,103.797,1,china earthquake
+2000,Earthquake,China,40.498,122.994,0,china earthquake
+2000,Earthquake,China,37.012,103.791,0,china earthquake
+2000,Earthquake,China,25.826,102.194,1,china earthquake
+2001,Earthquake,China,29.513,101.129,3,china earthquake
+1998,Earthquake,Iran (Islamic Republic of),27.791,53.608,5,iran (islamic republic of) earthquake
+1998,Earthquake,Indonesia,-2.071,124.891,33,indonesia earthquake
+1998,Earthquake,Indonesia,-8.194,112.413,1,indonesia earthquake
+1998,Earthquake,Iran (Islamic Republic of),33.199,47.225,0,iran (islamic republic of) earthquake
+1998,Volcanic activity,Mexico,19.50 N,103.60 W,0,mexico volcanic activity
+1998,Earthquake,Nicaragua,11.968 N,86.254 W,0,nicaragua earthquake
+1999,Earthquake,Colombia,4.461,-75.724,1186,colombia earthquake
+1999,Earthquake,Mexico,18.386,-97.436,15,mexico earthquake
+1999,Volcanic activity,Cameroon,4.2 N,9.17 E,0,cameroon volcanic activity
+1999,Earthquake,Algeria,35.321,-1.281,22,algeria earthquake
+1999,Volcanic activity,Ecuador,0.17 S,78.6 W,0,ecuador volcanic activity
+1999,Earthquake,Spain,38.193,-1.566,0,spain earthquake
+1999,Earthquake,Greece,38.119,23.605,143,greece earthquake
+1999,Earthquake,Guatemala,15.782,88.33,2,guatemala earthquake
+1999,Earthquake,Indonesia,-6.845,105.555,5,indonesia earthquake
+1999,Earthquake,India,30.512,79.403,100,india earthquake
+1999,Earthquake,Iran (Islamic Republic of),28.343,57.193,1,iran (islamic republic of) earthquake
+1999,Earthquake,Iran (Islamic Republic of),29.501,51.88,20,iran (islamic republic of) earthquake
+1999,Earthquake,Iran (Islamic Republic of),36.92,54.9,0,iran (islamic republic of) earthquake
+1999,Earthquake,Mexico,16.1,96.7,31,mexico earthquake
+1999,Earthquake,Mexico,18.324,-101.539,0,mexico earthquake
+1999,Volcanic activity,Mexico,19.51 N,103.62 W,0,mexico volcanic activity
+1999,Volcanic activity,Nicaragua,12.7 N,87 W,0,nicaragua volcanic activity
+1999,Volcanic activity,Nicaragua,12.5 N,86.7 W,0,nicaragua volcanic activity
+2000,Earthquake,Indonesia,-4.646,102.102,103,indonesia earthquake
+2000,Earthquake,Japan,35.456,133.134,0,japan earthquake
+2000,Earthquake,Indonesia,-1.105,123.573,45,indonesia earthquake
+2000,Earthquake,Colombia,7.042,-77.829,2,colombia earthquake
+2000,Earthquake,Greece,38.922,20.64,0,greece earthquake
+2000,Volcanic activity,Guatemala,14.381,-90.601,0,guatemala volcanic activity
+2000,Earthquake,Indonesia,-6.675,106.845,0,indonesia earthquake
+2000,Earthquake,Indonesia,-6.549,105.63,0,indonesia earthquake
+2000,Earthquake,Indonesia,-4.612,101.905,1,indonesia earthquake
+2000,Earthquake,Iran (Islamic Republic of),35.288,58.218,1,iran (islamic republic of) earthquake
+2000,Earthquake,Iran (Islamic Republic of),35.217,58.175,0,iran (islamic republic of) earthquake
+2000,Earthquake,Iceland,63.98,-20.758,0,iceland earthquake
+2000,Earthquake,Iceland,63.966,-20.487,0,iceland earthquake
+2000,Earthquake,Japan,34.221,139.131,1,japan earthquake
+2000,Volcanic activity,Japan,34.92,139.12,0,japan volcanic activity
+2000,Earthquake,Mexico,18.198,-102.48,0,mexico earthquake
+2000,Volcanic activity,Mexico,19.023,-98.622,0,mexico volcanic activity
+2000,Earthquake,Nicaragua,11.884,-85.988,7,nicaragua earthquake
+2001,Earthquake,Guatemala,13.049,-88.66,6,guatemala earthquake
+2001,Earthquake,India,23.419,70.232,20005,india earthquake
+1998,Earthquake,Pakistan,36.479,71.086,1,pakistan earthquake
+1999,Earthquake,Vanuatu,-16.423,168.214,12,vanuatu earthquake
+1999,Earthquake,Peru,-16.66,-72.662,1,peru earthquake
+1999,Earthquake,Turkey,40.758,31.161,845,turkey earthquake
+1999,Earthquake,Taiwan (Province of China),23.772,120.982,2264,taiwan (province of china) earthquake
+1999,Earthquake,Peru,-13.64,-74.43,0,peru earthquake
+1999,Earthquake,Philippines (the),15.766,119.74,6,philippines (the) earthquake
+1999,Earthquake,Russian Federation (the),42.962,46.954,0,russian federation (the) earthquake
+1999,Earthquake,Russian Federation (the),43.21 N,46.82 E,1,russian federation (the) earthquake
+1999,Earthquake,Turkey,40.748,29.864,17127,turkey earthquake
+1999,Earthquake,Turkey,40.709,30.045,6,turkey earthquake
+1999,Earthquake,Turkey,40.711,29.949,1,turkey earthquake
+1999,Earthquake,Turkey,40.74 N,30.26 E,3,turkey earthquake
+1999,Earthquake,Taiwan (Province of China),23.445,120.506,1,taiwan (province of china) earthquake
+2000,Earthquake,Russian Federation (the),48.786,142.246,0,russian federation (the) earthquake
+2000,Earthquake,Papua New Guinea,-3.98,152.169,2,papua new guinea earthquake
+2000,Volcanic activity,Philippines (the),13.257,123.685,0,philippines (the) volcanic activity
+2000,Earthquake,Tajikistan,37.451,69.498,0,tajikistan earthquake
+2000,Earthquake,Turkmenistan,39.566,54.799,11,turkmenistan earthquake
+2000,Earthquake,Turkey,38.164,38.777,1,turkey earthquake
+2000,Earthquake,Turkey,40.693,32.992,2,turkey earthquake
+2000,Earthquake,"Tanzania, United Republic of",-7.977,30.709,1,"tanzania, united republic of earthquake"
+2000,Earthquake,United States of America (the),38.3788333,-122.4133333,0,united states of america (the) earthquake
+2001,Earthquake,El Salvador,13.049,-88.66,844,el salvador earthquake
+2001,Earthquake,El Salvador,13.671,-88.938,315,el salvador earthquake
+2001,Earthquake,Pakistan,23.419,70.232,12,pakistan earthquake
+2001,Earthquake,"Tanzania, United Republic of",-9.278,33.766,0,"tanzania, united republic of earthquake"
+2001,Earthquake,Afghanistan,36.424,70.881,0,afghanistan earthquake
+2001,Earthquake,Afghanistan,35.169,69.389,4,afghanistan earthquake
+2002,Earthquake,Afghanistan,36.429,70.438,150,afghanistan earthquake
+2002,Earthquake,Afghanistan,36.062,69.315,1000,afghanistan earthquake
+2002,Earthquake,Afghanistan,35.959,69.417,50,afghanistan earthquake
+2002,Earthquake,Argentina,-28.937,-66.797,0,argentina earthquake
+2001,Earthquake,China,24.768,99.061,2,china earthquake
+2001,Flood,Cameroon,4.022,9.2,30,cameroon flood
+2001,Earthquake,China,27.689,101.003,2,china earthquake
+2001,Earthquake,China,24.455,102.66,0,china earthquake
+2001,Earthquake,China,26.316,100.648,1,china earthquake
+2001,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2001,Earthquake,Greece,39.059,24.244,0,greece earthquake
+2001,Earthquake,Indonesia,-6.99,108.275,0,indonesia earthquake
+2001,Earthquake,Indonesia,-4.68,102.562,0,indonesia earthquake
+2001,Earthquake,Iran (Islamic Republic of),33.007,60.276,0,iran (islamic republic of) earthquake
+2001,Volcanic activity,Italy,37.734,15.004,0,italy volcanic activity
+2001,Earthquake,Japan,34.083,132.526,2,japan earthquake
+2002,Earthquake,Indonesia,-1.757,134.297,8,indonesia earthquake
+2002,Earthquake,Georgia,41.765,44.96,6,georgia earthquake
+2002,Earthquake,Italy,41.789,14.872,30,italy earthquake
+2002,Earthquake,India,13.036,93.068,2,india earthquake
+2002,Earthquake,China,30.916,99.927,0,china earthquake
+2002,Earthquake,China,39.736,97.443,2,china earthquake
+2002,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2002,Earthquake,Egypt,30.2,31.41,0,egypt earthquake
+2002,Earthquake,Greece,37.747,21.087,0,greece earthquake
+2002,Volcanic activity,Guatemala,14.473,-90.88,0,guatemala volcanic activity
+2002,Earthquake,Indonesia,-1.196,121.333,0,indonesia earthquake
+2002,Earthquake,Indonesia,-1.68,134.234,0,indonesia earthquake
+2002,Earthquake,Indonesia,2.824,96.085,3,indonesia earthquake
+2002,Earthquake,Iran (Islamic Republic of),28.093,51.755,1,iran (islamic republic of) earthquake
+2002,Earthquake,Iran (Islamic Republic of),34.642,47.4,2,iran (islamic republic of) earthquake
+2002,Earthquake,Iran (Islamic Republic of),35.626,49.047,227,iran (islamic republic of) earthquake
+2002,Earthquake,Iran (Islamic Republic of),34.594,47.454,0,iran (islamic republic of) earthquake
+2002,Earthquake,Iran (Islamic Republic of),31.995,49.329,0,iran (islamic republic of) earthquake
+2002,Earthquake,Italy,37.67,15.267,0,italy earthquake
+2002,Earthquake,Italy,38.381,13.701,2,italy earthquake
+2002,Volcanic activity,Mexico,19.514,-103.62,0,mexico volcanic activity
+2003,Earthquake,Mexico,18.77,-104.104,29,mexico earthquake
+2003,Earthquake,China,39.61,77.23,268,china earthquake
+2003,Earthquake,Indonesia,-8.807,118.524,0,indonesia earthquake
+2003,Earthquake,Iran (Islamic Republic of),29.59,51.474,0,iran (islamic republic of) earthquake
+2001,Earthquake,Papua New Guinea,-6.884,146.388,0,papua new guinea earthquake
+2001,Earthquake,Peru,-16.265,-73.641,145,peru earthquake
+2001,Earthquake,Peru,-15.35,-72.516,2,peru earthquake
+2001,Earthquake,Peru,-14.258,-72.683,4,peru earthquake
+2001,Volcanic activity,Philippines (the),13.257,123.685,0,philippines (the) volcanic activity
+2001,Earthquake,Turkey,37.238,36.206,0,turkey earthquake
+2001,Earthquake,Turkey,39.832,41.623,0,turkey earthquake
+2001,Earthquake,United States of America (the),47.149,-122.7266667,1,united states of america (the) earthquake
+2001,Volcanic activity,Vanuatu,-16.507,168.346,0,vanuatu volcanic activity
+2001,Volcanic activity,Congo (the Democratic Republic of the),-1.408,29.2,0,congo (the democratic republic of the) volcanic activity
+2002,Earthquake,Taiwan (Province of China),24.279,122.179,4,taiwan (province of china) earthquake
+2002,Volcanic activity,Congo (the Democratic Republic of the),-1.52,29.25,200,congo (the democratic republic of the) volcanic activity
+2002,Earthquake,Pakistan,35.517,74.654,17,pakistan earthquake
+2002,Earthquake,Pakistan,35.414,74.515,19,pakistan earthquake
+2002,Earthquake,Vanuatu,-17.6,167.856,0,vanuatu earthquake
+2002,Earthquake,Vanuatu,-14.49,167.827,0,vanuatu earthquake
+2002,Earthquake,Philippines (the),6.033,124.249,15,philippines (the) earthquake
+2002,Earthquake,Papua New Guinea,-3.302,142.945,4,papua new guinea earthquake
+2002,Earthquake,Pakistan,36.429,70.438,3,pakistan earthquake
+2002,Earthquake,Papua New Guinea,-3.212,142.427,1,papua new guinea earthquake
+2002,Earthquake,Rwanda,-1.684,29.077,45,rwanda earthquake
+2002,Earthquake,Serbia Montenegro,42.436,21.466,1,serbia montenegro earthquake
+2002,Earthquake,Tajikistan,38.673,69.902,3,tajikistan earthquake
+2002,Earthquake,Tajikistan,36.429,70.438,0,tajikistan earthquake
+2002,Earthquake,Turkey,38.573,31.271,42,turkey earthquake
+2002,Earthquake,"Tanzania, United Republic of",-2.907,33.733,2,"tanzania, united republic of earthquake"
+2003,Earthquake,Afghanistan,35.893,70.62,1,afghanistan earthquake
+2003,Earthquake,Turkey,39.5,39.878,1,turkey earthquake
+2004,Earthquake,Afghanistan,33.426,69.524,2,afghanistan earthquake
+2004,Earthquake,Burundi,-3.393,29.558,3,burundi earthquake
+2003,Earthquake,Japan,38.849,141.568,0,japan earthquake
+2003,Earthquake,Japan,41.774,143.593,2,japan earthquake
+2003,Earthquake,Bangladesh,22.854,92.306,2,bangladesh earthquake
+2003,Earthquake,China,25.975,101.29,16,china earthquake
+2003,Earthquake,Dominican Republic (the),19.777,-70.673,3,dominican republic (the) earthquake
+2003,Earthquake,Greece,39.16,20.605,0,greece earthquake
+2003,Earthquake,Italy,44.792,8.892,0,italy earthquake
+2003,Earthquake,Japan,38.432,141.003,0,japan earthquake
+2003,Earthquake,Algeria,36.964,3.634,2266,algeria earthquake
+2003,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2003,Earthquake,China,37.529,96.476,0,china earthquake
+2003,Earthquake,China,39.43,77.219,1,china earthquake
+2003,Earthquake,China,43.77,119.643,4,china earthquake
+2003,Earthquake,China,25.954,101.254,3,china earthquake
+2003,Earthquake,China,38.383,100.975,9,china earthquake
+2003,Earthquake,China,34.712,103.834,1,china earthquake
+2003,Earthquake,China,27.372,103.971,4,china earthquake
+2003,Earthquake,China,42.905,80.515,11,china earthquake
+2003,Earthquake,China,27.283,103.753,0,china earthquake
+2003,Earthquake,Costa Rica,8.416,-82.824,2,costa rica earthquake
+2003,Earthquake,Algeria,36.939,3.578,9,algeria earthquake
+2003,Earthquake,Indonesia,2.354,128.855,1,indonesia earthquake
+2003,Earthquake,Indonesia,1.142,128.152,0,indonesia earthquake
+2003,Earthquake,Iran (Islamic Republic of),35.476,60.784,0,iran (islamic republic of) earthquake
+2003,Earthquake,Iran (Islamic Republic of),28.355,54.169,1,iran (islamic republic of) earthquake
+2003,Earthquake,Iran (Islamic Republic of),28.995,58.311,26796,iran (islamic republic of) earthquake
+2003,Earthquake,Iran (Islamic Republic of),31.953,49.209,0,iran (islamic republic of) earthquake
+2003,Earthquake,Kazakhstan,42.946,72.764,3,kazakhstan earthquake
+2004,Earthquake,Japan,37.226,138.779,40,japan earthquake
+2004,Earthquake,Indonesia,-3.615,135.538,37,indonesia earthquake
+2004,Earthquake,Indonesia,-3.609,135.404,32,indonesia earthquake
+2004,Earthquake,Costa Rica,9.602,-84.172,8,costa rica earthquake
+2004,Earthquake,Indonesia,-8.152,124.868,33,indonesia earthquake
+2004,Earthquake,Iran (Islamic Republic of),36.29,51.61,35,iran (islamic republic of) earthquake
+2004,Earthquake,Indonesia,3.295,95.982,165708,indonesia earthquake
+2004,Earthquake,Kenya,3.295,95.982,1,kenya earthquake
+2004,Earthquake,Bangladesh,3.295,95.982,2,bangladesh earthquake
+2004,Earthquake,China,45.382,118.256,0,china earthquake
+2004,Earthquake,China,27.266,103.873,4,china earthquake
+2004,Earthquake,China,25.073,99.169,0,china earthquake
+2004,Earthquake,China,34.682,103.781,0,china earthquake
+2004,Earthquake,China,37.506,96.758,0,china earthquake
+2004,Earthquake,Colombia,2.265,-76.595,1,colombia earthquake
+2004,Earthquake,Colombia,4.695,-77.508,0,colombia earthquake
+2004,Earthquake,Germany,48.115,8.077,0,germany earthquake
+2004,Earthquake,Dominica,15.679,-61.706,0,dominica earthquake
+2004,Earthquake,Algeria,36.852,3.418,0,algeria earthquake
+2004,Earthquake,Algeria,36.848,3.448,0,algeria earthquake
+2004,Earthquake,Guadeloupe,15.679,-61.706,1,guadeloupe earthquake
+2004,Earthquake,Indonesia,-8.31,115.788,1,indonesia earthquake
+2004,Earthquake,Indonesia,-0.466,100.655,5,indonesia earthquake
+2004,Earthquake,India,3.295,95.982,16389,india earthquake
+2004,Earthquake,Sri Lanka,3.295,95.982,35399,sri lanka earthquake
+2005,Earthquake,Japan,33.807,130.131,1,japan earthquake
+2005,Earthquake,Japan,33.637,130.179,0,japan earthquake
+2005,Earthquake,Indonesia,2.085,97.108,915,indonesia earthquake
+2005,Earthquake,Indonesia,-1.198,119.933,1,indonesia earthquake
+2005,Earthquake,Iran (Islamic Republic of),37.103,54.574,0,iran (islamic republic of) earthquake
+2005,Earthquake,Iran (Islamic Republic of),30.754,56.816,612,iran (islamic republic of) earthquake
+2003,Earthquake,Russian Federation (the),50.038,87.813,3,russian federation (the) earthquake
+2003,Earthquake,Panama,9.355,-79.941,0,panama earthquake
+2003,Earthquake,Panama,8.416,-82.824,2,panama earthquake
+2003,Earthquake,Turkey,39.007,40.464,177,turkey earthquake
+2003,Earthquake,Turkey,38.111,28.887,0,turkey earthquake
+2003,Earthquake,Turkey,38.221,26.958,0,turkey earthquake
+2003,Earthquake,United States of America (the),35.7005,-121.1005,2,united states of america (the) earthquake
+2004,Earthquake,Pakistan,34.774,73.216,24,pakistan earthquake
+2004,Earthquake,Slovenia,46.296,13.641,1,slovenia earthquake
+2004,Earthquake,Tajikistan,39.57,67.479,0,tajikistan earthquake
+2004,Earthquake,Turkey,39.847,40.874,0,turkey earthquake
+2004,Earthquake,Maldives,3.295,95.982,102,maldives earthquake
+2004,Earthquake,Malaysia,3.295,95.982,80,malaysia earthquake
+2004,Earthquake,Thailand,3.295,95.982,8345,thailand earthquake
+2004,Earthquake,Morocco,35.142,-3.997,628,morocco earthquake
+2004,Earthquake,Myanmar,3.295,95.982,71,myanmar earthquake
+2004,Earthquake,Russian Federation (the),47.311,142.12,0,russian federation (the) earthquake
+2004,Earthquake,Somalia,3.295,95.982,298,somalia earthquake
+2004,Earthquake,Seychelles,3.295,95.982,3,seychelles earthquake
+2004,Earthquake,Turkey,39.93,40.812,9,turkey earthquake
+2004,Earthquake,Turkey,39.766,43.979,18,turkey earthquake
+2004,Earthquake,"Tanzania, United Republic of",3.295,95.982,10,"tanzania, united republic of earthquake"
+2005,Earthquake,Turkey,37.622,43.703,2,turkey earthquake
+2005,Earthquake,Turkey,39.354,40.89,0,turkey earthquake
+2005,Earthquake,South Africa,-26.913,26.789,2,south africa earthquake
+2005,Earthquake,Afghanistan,34.539,73.588,1,afghanistan earthquake
+2005,Earthquake,Afghanistan,36.357,71.093,5,afghanistan earthquake
+2006,Earthquake,Afghanistan,37.255,68.828,1,afghanistan earthquake
+2006,Flood,Afghanistan,35.67,66.83,19,afghanistan flood
+2006,Flood,Afghanistan,35.62,63.54,166,afghanistan flood
+2006,Flood,Afghanistan,34.52,65.56,21,afghanistan flood
+2005,Earthquake,India,34.539,73.588,1309,india earthquake
+2005,Earthquake,Chile,-19.987,-69.197,11,chile earthquake
+2005,Earthquake,China,29.671,115.688,16,china earthquake
+2005,Earthquake,China,26.569,103.036,0,china earthquake
+2005,Volcanic activity,Colombia,1.22,-77.37,0,colombia volcanic activity
+2005,Volcanic activity,Ethiopia,12.623,40.46,0,ethiopia volcanic activity
+2005,Earthquake,Iran (Islamic Republic of),26.774,55.858,13,iran (islamic republic of) earthquake
+2005,Earthquake,Iran (Islamic Republic of),27.095,61.887,0,iran (islamic republic of) earthquake
+2006,Flood,China,34.04,117.03,30,china flood
+2006,Storm,China,25.97,118.77,23,china storm
+2006,Storm,China,26.39,117.28,109,china storm
+2006,Flood,Chile,-72.64,-37.26,18,chile flood
+2006,Flood,Colombia,5.43,-75.6,150,colombia flood
+2006,Flood,Greece,40.76,23.65,1,greece flood
+2006,Storm,China,24,112.11,820,china storm
+2006,Flood,Bolivia (Plurinational State of),-16.03,-63.43,25,bolivia (plurinational state of) flood
+2006,Earthquake,China,28.012,104.151,1,china earthquake
+2006,Flood,China,23.42,111.38,21,china flood
+2006,Flood,China,27.06,111.06,29,china flood
+2006,Flood,China,43.32,83.77,20,china flood
+2006,Flood,China,23.34,102.64,27,china flood
+2006,Storm,China,21.11,110.11,89,china storm
+2006,Flood,Congo (the),-4.24,15.43,6,congo (the) flood
+2006,Flood,Ecuador,-2.23,-79.98,16,ecuador flood
+2006,Flood,Fiji,-16.45,179.65,4,fiji flood
+2006,Earthquake,Indonesia,0.626,99.859,8,indonesia earthquake
+2006,Flood,Indonesia,1.07,124.66,39,indonesia flood
+2006,Flood,Indonesia,-5.17,120.11,236,indonesia flood
+2006,Flood,Indonesia,-3.29,115.49,52,indonesia flood
+2006,Flood,Indonesia,-6.85,108.59,19,indonesia flood
+2006,Flood,Indonesia,-7.84,111.86,22,indonesia flood
+2006,Flood,India,32.89,73.88,19,india flood
+2006,Flood,India,19.17,83.65,33,india flood
+2006,Flood,India,20.19,73.82,350,india flood
+2006,Earthquake,Indonesia,-3.595,127.214,3,indonesia earthquake
+2006,Flood,Austria,49.86,16.09,0,austria flood
+2006,Flood,Burkina Faso,14.42,-1.02,0,burkina faso flood
+2006,Flood,Canada,52.53,-82.09,0,canada flood
+2006,Flood,China,26.75,118.57,57,china flood
+2006,Flood,Czech Republic (the),49.86,16.09,6,czech republic (the) flood
+2006,Flood,Germany,49.86,16.09,0,germany flood
+2006,Flood,Georgia,42.27,42.83,0,georgia flood
+2006,Storm,Australia,-25.68,115.13,0,australia storm
+2006,Flood,China,25.51,106.51,50,china flood
+2006,Storm,Australia,-23.26,116.94,0,australia storm
+2006,Storm,Australia,-17.91,145.54,0,australia storm
+2006,Storm,Bangladesh,19.73,83.75,115,bangladesh storm
+2006,Storm,Fiji,-17.82,177.68,0,fiji storm
+2006,Storm,India,19.73,83.75,114,india storm
+2006,Flood,Afghanistan,33.06,69.95,10,afghanistan flood
+2006,Flood,Afghanistan,34.08,69.75,54,afghanistan flood
+2006,Flood,Australia,-14.18,132.39,0,australia flood
+2006,Flood,Burundi,-3.86,29.67,1,burundi flood
+2006,Flood,Burundi,-3.14,30.4,0,burundi flood
+2006,Flood,Bangladesh,23.23,89.27,0,bangladesh flood
+2006,Earthquake,Bulgaria,41.708,25.544,0,bulgaria earthquake
+2006,Flood,Brazil,-22.56,-43.36,12,brazil flood
+2006,Flood,Brazil,2.81,-52.29,8,brazil flood
+2006,Flood,Canada,49.72,-56.05,0,canada flood
+2006,Flood,Canada,53.54,-99.99,0,canada flood
+2006,Flood,Canada,67.93,-99.99,0,canada flood
+2006,Flood,Canada,50.13,-99.99,1,canada flood
+2006,Flood,Switzerland,46.04,7.39,0,switzerland flood
+2006,Earthquake,China,23.282,101.693,0,china earthquake
+2006,Earthquake,China,27.995,104.138,22,china earthquake
+2006,Earthquake,China,33.068,104.95,0,china earthquake
+2006,Earthquake,China,31.56,113.21,0,china earthquake
+2006,Earthquake,China,43.469,119.558,0,china earthquake
+2006,Flood,China,24.66,102.18,35,china flood
+2006,Flood,China,34.7,102.68,15,china flood
+2006,Flood,China,26.92,106.58,22,china flood
+2006,Flood,China,30.92,112.9,3,china flood
+2006,Flood,China,26.2,112.75,2,china flood
+2006,Flood,China,24.73,116.87,23,china flood
+2006,Flood,China,26.01,108.45,6,china flood
+2006,Flood,China,47.73,128.9,0,china flood
+2006,Flood,China,22.35,109.4,10,china flood
+2006,Flood,China,39.04,106.59,1,china flood
+2006,Earthquake,Algeria,36.623,5.328,4,algeria earthquake
+2006,Flood,Algeria,27.67,-5.91,1,algeria flood
+2006,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2006,Volcanic activity,Ecuador,-1.467,-78.442,5,ecuador volcanic activity
+2006,Flood,Spain,41.65,-7.87,0,spain flood
+2006,Flood,Ethiopia,9.67,42.19,498,ethiopia flood
+2006,Flood,Ethiopia,10.99,41.63,0,ethiopia flood
+2006,Flood,Ethiopia,5.24,36.22,364,ethiopia flood
+2006,Flood,Ethiopia,13.21,34.76,2,ethiopia flood
+2006,Flood,Ethiopia,4.62,44.6,80,ethiopia flood
+2006,Flood,Guyana,6.89,-58.66,0,guyana flood
+2006,Flood,Haiti,18.5,-73.48,11,haiti flood
+2006,Earthquake,Indonesia,-7.961,110.446,5778,indonesia earthquake
+2006,Earthquake,Indonesia,-8.261,118.753,1,indonesia earthquake
+2006,Earthquake,Indonesia,-9.284,107.419,802,indonesia earthquake
+2006,Flood,Indonesia,0.55,123.01,0,indonesia flood
+2006,Landslide,Indonesia,-8.02,113.34,156,indonesia landslide
+2006,Landslide,Indonesia,-8.44,117.29,11,indonesia landslide
+2006,Flood,India,17.43,82.81,20,india flood
+2006,Flood,India,26.6,94.02,21,india flood
+2006,Flood,India,10.54,76.05,32,india flood
+2006,Flood,India,18.73,75.23,41,india flood
+2006,Flood,India,25.62,83.67,130,india flood
+2006,Flood,India,22.41,71.31,24,india flood
+2006,Flood,India,34.61,73.2,15,india flood
+2006,Flood,India,27.59,81.52,42,india flood
+2006,Flood,India,14.13,79.93,47,india flood
+2006,Flood,India,18.1,81.53,185,india flood
+2006,Earthquake,Iran (Islamic Republic of),28.12,56.865,0,iran (islamic republic of) earthquake
+2006,Earthquake,Iran (Islamic Republic of),33.5,48.78,63,iran (islamic republic of) earthquake
+2006,Earthquake,Iran (Islamic Republic of),30.79,56.7,0,iran (islamic republic of) earthquake
+2006,Flood,Iran (Islamic Republic of),38.69,47.88,14,iran (islamic republic of) flood
+2006,Flood,Iraq,36.23,44.81,20,iraq flood
+2006,Flood,Iraq,34.21,45.49,0,iraq flood
+2007,Flood,Haiti,19.41,-71.78,14,haiti flood
+2007,Flood,Afghanistan,33.25,64.89,104,afghanistan flood
+2007,Flood,Bolivia (Plurinational State of),-16.97,-61.96,40,bolivia (plurinational state of) flood
+2007,Flood,Brazil,-22.42,-44,59,brazil flood
+2007,Volcanic activity,Colombia,2.93,-76.03,0,colombia volcanic activity
+2007,Flood,Dominican Republic (the),19.41,-71.78,3,dominican republic (the) flood
+2007,Flood,Indonesia,-8.57,120.76,74,indonesia flood
+2007,Landslide,Indonesia,3.56,125.54,32,indonesia landslide
+2007,Flood,Angola,-12.95,24.37,0,angola flood
+2007,Flood,Angola,-8.87,13.36,105,angola flood
+2007,Flood,Argentina,-31.99,-59.12,5,argentina flood
+2007,Flood,Burundi,-3.14,30.4,4,burundi flood
+2007,Flood,Algeria,35.64,4.2,22,algeria flood
+2007,Flood,Spain,41.65,-0.65,1,spain flood
+2007,Flood,Fiji,-17.77,177.48,1,fiji flood
+2007,Earthquake,Indonesia,-0.488,100.53,67,indonesia earthquake
+2007,Flood,Indonesia,-6.22,106.83,68,indonesia flood
+2005,Earthquake,El Salvador,13.835,-89.759,1,el salvador earthquake
+2005,Earthquake,Pakistan,34.539,73.588,73338,pakistan earthquake
+2005,Earthquake,Peru,-19.987,-69.197,0,peru earthquake
+2005,Earthquake,Peru,-5.678,-76.398,5,peru earthquake
+2005,Earthquake,Papua New Guinea,-6.319,146.846,1,papua new guinea earthquake
+2005,Volcanic activity,Papua New Guinea,-4.08,145.037,0,papua new guinea volcanic activity
+2005,Volcanic activity,El Salvador,13.852846,-89.63,2,el salvador volcanic activity
+2005,Earthquake,Turkey,39.22,41.08,0,turkey earthquake
+2005,Earthquake,"Tanzania, United Republic of",-6.224,29.83,2,"tanzania, united republic of earthquake"
+2005,Volcanic activity,Vanuatu,-16.507,168.346,0,vanuatu volcanic activity
+2005,Earthquake,Congo (the Democratic Republic of the),-6.224,29.83,6,congo (the democratic republic of the) earthquake
+2006,Flood,United States of America (the),37.69,-99.99,1,united states of america (the) flood
+2006,Flood,United States of America (the),22.15,-99.99,7,united states of america (the) flood
+2006,Storm,Mexico,25.35,-111.81,7,mexico storm
+2006,Storm,Mexico,24.47,-107.04,4,mexico storm
+2006,Storm,Philippines (the),24,112.11,37,philippines (the) storm
+2006,Storm,Philippines (the),16.68,107.21,228,philippines (the) storm
+2006,Storm,Philippines (the),17.02,121.82,34,philippines (the) storm
+2006,Storm,Viet Nam,24,112.11,17,viet nam storm
+2006,Earthquake,United States of America (the),19.878,-155.935,0,united states of america (the) earthquake
+2006,Flood,Panama,8.9,-78.71,11,panama flood
+2006,Storm,Philippines (the),10.33,106.74,1399,philippines (the) storm
+2006,Flood,Japan,35.34,136.22,34,japan flood
+2006,Flood,Japan,31.54,130.99,8,japan flood
+2006,Flood,Korea (the Republic of),37.56,127.17,46,korea (the republic of) flood
+2006,Flood,Sri Lanka,7.32,80.03,25,sri lanka flood
+2006,Flood,Malaysia,1.87,103.22,6,malaysia flood
+2006,Flood,Pakistan,34.61,73.2,40,pakistan flood
+2006,Flood,Philippines (the),12.44,124.77,0,philippines (the) flood
+2006,Flood,Papua New Guinea,-4.26,143.22,0,papua new guinea flood
+2006,Landslide,Papua New Guinea,-6.16,143.7,1,papua new guinea landslide
+2006,Flood,Korea (the Democratic People's Republic of),37.56,127.17,278,korea (the democratic people's republic of) flood
+2006,Flood,Portugal,41.65,-7.87,0,portugal flood
+2006,Flood,Romania,47.15,47.46,14,romania flood
+2006,Flood,Serbia Montenegro,45.26,20.75,0,serbia montenegro flood
+2006,Flood,Thailand,18.18,100.15,116,thailand flood
+2006,Flood,Thailand,18.76,100.02,164,thailand flood
+2006,Flood,United States of America (the),40.41,-75.78,11,united states of america (the) flood
+2006,Flood,Viet Nam,17.76,106.15,42,viet nam flood
+2006,Flood,Namibia,-24.53,17.98,5,namibia flood
+2006,Flood,Philippines (the),7.61,125.83,2,philippines (the) flood
+2006,Flood,Romania,44.5,23.87,0,romania flood
+2006,Flood,Russian Federation (the),58.33,114.58,0,russian federation (the) flood
+2006,Flood,Serbia Montenegro,42.6,20.83,0,serbia montenegro flood
+2006,Flood,Ukraine,44.5,23.87,0,ukraine flood
+2006,Flood,Ukraine,45.09,34.62,2,ukraine flood
+2006,Flood,Cambodia,11.06,104.68,5,cambodia flood
+2006,Storm,Philippines (the),26.39,117.39,4,philippines (the) storm
+2006,Storm,Philippines (the),15.86,120.74,8,philippines (the) storm
+2006,Flood,United States of America (the),43.16,-70.79,2,united states of america (the) flood
+2006,Flood,United States of America (the),37.21,-87.62,14,united states of america (the) flood
+2006,Flood,Yemen,15.1,43.88,25,yemen flood
+2006,Storm,Mexico,24.93,-107.53,4,mexico storm
+2006,Storm,Myanmar,18.37,94.95,34,myanmar storm
+2006,Landslide,Nepal,28.69,81.31,147,nepal landslide
+2006,Storm,United States of America (the),34.74,-77.87,6,united states of america (the) storm
+2006,Storm,Viet Nam,10.33,106.74,95,viet nam storm
+2006,Flood,Kenya,2.25,37.53,60,kenya flood
+2006,Flood,Kenya,-3.24,40.01,30,kenya flood
+2006,Earthquake,Kyrgyzstan,42.156,76.163,0,kyrgyzstan earthquake
+2006,Flood,Cambodia,11.43,103.53,0,cambodia flood
+2006,Flood,Morocco,32.15,-4.05,6,morocco flood
+2006,Flood,Mexico,31.76,-106.39,0,mexico flood
+2006,Flood,Mali,14.42,-1.02,1,mali flood
+2006,Flood,Myanmar,19.91,95.45,25,myanmar flood
+2006,Earthquake,Mozambique,-21.324,33.583,4,mozambique earthquake
+2006,Flood,Mauritania,14.42,-1.02,0,mauritania flood
+2006,Flood,Mauritania,17.75,-15,7,mauritania flood
+2006,Flood,Malawi,-15.96,34.51,5,malawi flood
+2006,Flood,Malawi,-14.59,35.12,3,malawi flood
+2006,Flood,Malaysia,4.33,102.54,0,malaysia flood
+2006,Flood,Malaysia,5.27,102.15,0,malaysia flood
+2006,Flood,Nigeria,14.42,-1.02,0,nigeria flood
+2006,Flood,Nigeria,6.94,6.35,0,nigeria flood
+2006,Flood,Nepal,25.62,83.67,0,nepal flood
+2006,Flood,New Zealand,-45.69,170.37,0,new zealand flood
+2006,Flood,Pakistan,32.89,73.88,20,pakistan flood
+2006,Flood,Pakistan,33.06,69.95,13,pakistan flood
+2006,Flood,Pakistan,25.03,67.12,74,pakistan flood
+2006,Flood,Pakistan,20.19,73.82,0,pakistan flood
+2006,Landslide,Pakistan,35.35,72.62,29,pakistan landslide
+2006,Volcanic activity,Peru,-16.355,-70.9,0,peru volcanic activity
+2006,Volcanic activity,Philippines (the),13.257,123.685,0,philippines (the) volcanic activity
+2006,Flood,Philippines (the),17.02,121.82,4,philippines (the) flood
+2006,Flood,Philippines (the),7.17,125.57,1,philippines (the) flood
+2006,Storm,Philippines (the),21.11,110.11,6,philippines (the) storm
+2006,Flood,Papua New Guinea,-9.07,147.28,1,papua new guinea flood
+2006,Flood,Poland,49.5,20.93,0,poland flood
+2006,Flood,Romania,47.8,25.95,30,romania flood
+2006,Earthquake,Russian Federation (the),60.949,167.089,0,russian federation (the) earthquake
+2006,Flood,Russian Federation (the),50.78,87.14,0,russian federation (the) flood
+2006,Flood,Russian Federation (the),50.79,106.52,0,russian federation (the) flood
+2006,Landslide,Rwanda,-1.79,29.94,24,rwanda landslide
+2006,Flood,Sudan (the),13.21,34.76,27,sudan (the) flood
+2006,Earthquake,El Salvador,14.028,-89.785,0,el salvador earthquake
+2006,Flood,Somalia,2.665,45.45,5,somalia flood
+2006,Flood,Somalia,3.1,45.44,5,somalia flood
+2006,Flood,Somalia,4.64,44.6,52,somalia flood
+2006,Flood,Somalia,0.78,39.72,35,somalia flood
+2006,Flood,Suriname,3.42,-56.48,3,suriname flood
+2006,Flood,Slovakia,48.67,19.08,1,slovakia flood
+2006,Flood,Slovakia,49.5,20.93,0,slovakia flood
+2006,Flood,Chad,10.33,15.33,52,chad flood
+2006,Flood,Thailand,4.33,102.54,0,thailand flood
+2006,Earthquake,Tajikistan,37.255,68.828,3,tajikistan earthquake
+2006,Flood,Turkey,37.64,39.65,47,turkey flood
+2006,Flood,Turkey,39.74,41.1,12,turkey flood
+2006,Earthquake,Taiwan (Province of China),21.799,120.547,2,taiwan (province of china) earthquake
+2006,Flood,Taiwan (Province of China),24.07,120.79,3,taiwan (province of china) flood
+2006,Storm,Taiwan (Province of China),26.39,117.28,0,taiwan (province of china) storm
+2006,Flood,"Tanzania, United Republic of",-3.33,37.22,0,"tanzania, united republic of flood"
+2006,Flood,Uganda,1.38,34.28,3,uganda flood
+2006,Flood,Uganda,0.78,39.72,0,uganda flood
+2006,Flood,United States of America (the),41.41,-86.91,2,united states of america (the) flood
+2006,Flood,United States of America (the),31.76,-106.39,0,united states of america (the) flood
+2006,Flood,United States of America (the),41.52,-81.09,1,united states of america (the) flood
+2006,Flood,United States of America (the),62.45,-99.99,0,united states of america (the) flood
+2006,Flood,United States of America (the),60.88,-145.99,0,united states of america (the) flood
+2006,Flood,United States of America (the),47.86,-122.15,2,united states of america (the) flood
+2006,Flood,Viet Nam,11.06,104.68,60,viet nam flood
+2006,Storm,Viet Nam,16.68,107.21,71,viet nam storm
+2006,Volcanic activity,Vanuatu,-16.507,168.346,0,vanuatu volcanic activity
+2006,Flood,Yemen,14.54,44.18,5,yemen flood
+2006,Flood,South Africa,-27.44,24.83,6,south africa flood
+2006,Flood,South Africa,-33.538,26.3,6,south africa flood
+2007,Earthquake,Japan,37.336,136.588,1,japan earthquake
+2007,Storm,Madagascar,-14.84,49.94,80,madagascar storm
+2007,Storm,New Zealand,-35.35,173.98,0,new zealand storm
+2007,Earthquake,Solomon Islands,-8.466,157.043,52,solomon islands earthquake
+2007,Flood,Sri Lanka,6.71,80.95,18,sri lanka flood
+2007,Flood,Peru,-11.47,-74.46,17,peru flood
+2007,Flood,Philippines (the),7.71,125.22,9,philippines (the) flood
+2007,Flood,Thailand,7.44,99.65,38,thailand flood
+2007,Flood,Yemen,15.1,43.88,7,yemen flood
+2007,Flood,Mozambique,-17.47,35.15,29,mozambique flood
+2007,Flood,Madagascar,-18.49,46.34,7,madagascar flood
+2007,Flood,Malawi,-17.47,35.15,2,malawi flood
+2007,Flood,Malawi,-10.62,32.59,0,malawi flood
+2007,Flood,Malaysia,2.19,103.37,17,malaysia flood
+2007,Flood,Namibia,12.95,24.37,7,namibia flood
+2007,Flood,Rwanda,-1.73,29.48,10,rwanda flood
+2007,Flood,Uruguay,-31.99,-59.12,0,uruguay flood
+2007,Flood,United States of America (the),34.88,-90.07,24,united states of america (the) flood
+2007,Flood,Yemen,16.57,49.13,36,yemen flood
+2006,Flood,Congo (the Democratic Republic of the),-4.36,16.17,1,congo (the democratic republic of the) flood
+2007,Flood,China,36.68,119.23,83,china flood
+2007,Storm,Dominican Republic (the),18.53,-70.06,129,dominican republic (the) storm
+2007,Storm,Dominican Republic (the),18.93,-71.03,33,dominican republic (the) storm
+2007,Storm,Guatemala,14.62,-83.64,0,guatemala storm
+2007,Storm,Honduras,14.62,-83.64,1,honduras storm
+2007,Storm,Cuba,18.53,-70.06,1,cuba storm
+2007,Storm,France,43.3,-0.47,1,france storm
+2007,Flood,Australia,-32.87,151.38,9,australia flood
+2007,Flood,China,30.28,107.78,43,china flood
+2007,Flood,Bangladesh,22.4,91.95,120,bangladesh flood
+2007,Flood,Bangladesh,23.92,91.23,1110,bangladesh flood
+2007,Flood,Brazil,-22.72,-43.42,6,brazil flood
+2007,Earthquake,Barbados,14.944,-61.274,0,barbados earthquake
+2007,Flood,China,24.1,100.16,170,china flood
+2007,Flood,China,43.09,88.21,29,china flood
+2007,Flood,China,-1.8,116.72,11,china flood
+2007,Flood,China,27.72,104.07,17,china flood
+2007,Flood,Colombia,8.38,-75.59,146,colombia flood
+2007,Flood,Colombia,7.38,-75.43,13,colombia flood
+2007,Flood,Colombia,4.5,-75.21,24,colombia flood
+2007,Flood,Costa Rica,10.98,-85.44,19,costa rica flood
+2007,Flood,Guatemala,14.6,-90.49,11,guatemala flood
+2007,Flood,Haiti,19.55,-71.05,2,haiti flood
+2007,Flood,Indonesia,-1.74,121.49,88,indonesia flood
+2007,Flood,Indonesia,-7.54,111.33,127,indonesia flood
+2007,Flood,Indonesia,-1.08,116.72,4,indonesia flood
+2007,Flood,India,14.94,78.16,127,india flood
+2007,Flood,India,31.24,76.53,76,india flood
+2007,Earthquake,Chile,-45.243,-72.648,10,chile earthquake
+2007,Earthquake,Indonesia,-4.438,101.367,25,indonesia earthquake
+2007,Flood,Bolivia (Plurinational State of),-17.66,-65.3,75,bolivia (plurinational state of) flood
+2007,Flood,United Kingdom of Great Britain and Northern Ireland (the),52.52,-0.76,1,united kingdom of great britain and northern ireland (the) flood
+2007,Flood,Algeria,34.95,5.79,18,algeria flood
+2007,Flood,United Kingdom of Great Britain and Northern Ireland (the),52.07,-2.1,7,united kingdom of great britain and northern ireland (the) flood
+2007,Storm,Australia,-13.67,131.92,2,australia storm
+2007,Storm,Bangladesh,22.61,90.15,4234,bangladesh storm
+2007,Storm,Bahamas (the),18.53,-70.06,1,bahamas (the) storm
+2007,Storm,Dominican Republic (the),14.64,-61.02,1,dominican republic (the) storm
+2007,Storm,Haiti,14.64,-61.02,9,haiti storm
+2007,Storm,Haiti,18.53,-70.06,90,haiti storm
+2007,Storm,Haiti,18.93,-71.03,3,haiti storm
+2007,Flood,Zambia,-12.95,24.37,4,zambia flood
+2007,Flood,Zambia,-10.62,32.59,0,zambia flood
+2007,Flood,Afghanistan,36.52,70.6,23,afghanistan flood
+2007,Flood,Afghanistan,37.01,70.73,36,afghanistan flood
+2007,Flood,Afghanistan,34.53,66.13,9,afghanistan flood
+2007,Flood,Afghanistan,36.29,68.85,10,afghanistan flood
+2007,Flood,Afghanistan,35.28,71.14,113,afghanistan flood
+2007,Flood,Burkina Faso,11.45,-4.39,52,burkina faso flood
+2007,Flood,Bulgaria,42.52,24.5,2,bulgaria flood
+2007,Flood,Bulgaria,41.74,25.62,2,bulgaria flood
+2007,Earthquake,Brazil,-15.048,-44.231,1,brazil earthquake
+2007,Flood,Brazil,-30.25,-52.67,4,brazil flood
+2007,Flood,Canada,54.18,-125.03,0,canada flood
+2007,Earthquake,Chile,-22.247,-69.89,2,chile earthquake
+2007,Earthquake,China,23.028,101.052,3,china earthquake
+2007,Flood,China,27.2,116.14,0,china flood
+2007,Flood,China,36.37,118.72,26,china flood
+2007,Flood,China,32.78,108.87,11,china flood
+2007,Earthquake,Colombia,2.966,-77.963,0,colombia earthquake
+2007,Flood,Colombia,7.89,-74.91,35,colombia flood
+2007,Flood,Costa Rica,10.27,-84.95,0,costa rica flood
+2007,Flood,Cuba,20.67,-76.4,0,cuba flood
+2007,Flood,Dominican Republic (the),19.55,-71.05,9,dominican republic (the) flood
+2007,Flood,Algeria,36.75,2.96,14,algeria flood
+2007,Flood,Spain,39.89,-4.22,1,spain flood
+2007,Flood,Spain,38.64,-0.27,3,spain flood
+2007,Volcanic activity,Ethiopia,12.17,40.82,5,ethiopia volcanic activity
+2007,Flood,Ethiopia,5.45,37.12,0,ethiopia flood
+2007,Flood,Ethiopia,8.33,34.5,17,ethiopia flood
+2007,Flood,Fiji,-17.77,177.48,5,fiji flood
+2007,Earthquake,United Kingdom of Great Britain and Northern Ireland (the),51.085,1.009,0,united kingdom of great britain and northern ireland (the) earthquake
+2007,Flood,United Kingdom of Great Britain and Northern Ireland (the),53.88,-0.91,6,united kingdom of great britain and northern ireland (the) flood
+2007,Flood,Greece,41.74,25.62,2,greece flood
+2007,Flood,Guatemala,10.98,-85.44,0,guatemala flood
+2007,Earthquake,Honduras,14.828,-87.12,0,honduras earthquake
+2007,Flood,Honduras,10.98,-85.44,5,honduras flood
+2007,Flood,Haiti,18.55,-72.29,4,haiti flood
+2007,Flood,Haiti,20.67,-76.4,41,haiti flood
+2007,Earthquake,Indonesia,-7.783,114.338,0,indonesia earthquake
+2007,Earthquake,Indonesia,-8.292,118.37,3,indonesia earthquake
+2007,Volcanic activity,Indonesia,-7.93,112.308,0,indonesia volcanic activity
+2007,Flood,Indonesia,-0.19,116.92,4,indonesia flood
+2007,Flood,Indonesia,-3.28,120.2,15,indonesia flood
+2007,Flood,India,20.91,86.4,80,india flood
+2007,Flood,India,26.26,94.02,15,india flood
+2007,Flood,India,22.02,72.25,225,india flood
+2007,Flood,India,21.03,77.52,62,india flood
+2007,Flood,India,20.05,81.86,29,india flood
+2007,Flood,India,23.92,91.23,0,india flood
+2007,Flood,India,22.63,88.49,1103,india flood
+2007,Flood,India,22.68,70.93,16,india flood
+2007,Flood,India,15.71,79.88,94,india flood
+2007,Flood,India,12.73,79.7,29,india flood
+2007,Flood,India,20.45,86.2,15,india flood
+2007,Flood,India,27.58,95.26,96,india flood
+2007,Flood,India,10.39,76.31,44,india flood
+2008,Flood,Chile,-35.86,-71.95,5,chile flood
+2008,Storm,Australia,-30.05,151.49,1,australia storm
+2008,Flood,Brazil,-24.5,-47.88,4,brazil flood
+2008,Flood,Brazil,-22.37,-43.13,9,brazil flood
+2008,Flood,Brazil,-5.36,-41.68,36,brazil flood
+2008,Flood,Brazil,-25.1,-49.34,151,brazil flood
+2008,Earthquake,China,31.002,103.322,87476,china earthquake
+2008,Earthquake,Colombia,4.33,-73.764,11,colombia earthquake
+2008,Volcanic activity,Colombia,2.93,-76.03,16,colombia volcanic activity
+2008,Flood,Colombia,2.68,-75.42,11,colombia flood
+2008,Flood,Costa Rica,8.57,80.8,1,costa rica flood
+2008,Flood,Algeria,3.48,32.24,93,algeria flood
+2008,Flood,Ecuador,-1.25,-79.66,41,ecuador flood
+2008,Earthquake,Greece,37.963,21.525,2,greece earthquake
+2008,Flood,Honduras,15.86,-89.28,67,honduras flood
+2008,Flood,Indonesia,-6.8,111.06,11,indonesia flood
+2008,Flood,India,25.18,91.54,1063,india flood
+2008,Flood,Australia,-21.56,147.03,4,australia flood
+2008,Flood,Indonesia,-7.13,112.37,3,indonesia flood
+2008,Flood,India,22.044,94.55,47,india flood
+2008,Flood,United Kingdom of Great Britain and Northern Ireland (the),53.26,-1.8,8,united kingdom of great britain and northern ireland (the) flood
+2008,Storm,Belize,17.3,-88.1,7,belize storm
+2008,Storm,China,23.542,112.3,14,china storm
+2008,Storm,China,32.56,114.41,1,china storm
+2008,Storm,China,22.33,113.15,0,china storm
+2008,Storm,Haiti,18.46,-71.69,74,haiti storm
+2008,Flood,Canada,52.15,-81.96,0,canada flood
+2008,Flood,Angola,-17.05,17.26,7,angola flood
+2008,Volcanic activity,Argentina,-42.833,-72.65,0,argentina volcanic activity
+2008,Flood,Argentina,-22.92,-61.66,0,argentina flood
+2008,Flood,Australia,-28.44,152.87,1,australia flood
+2008,Flood,Australia,-20.4,144.56,0,australia flood
+2008,Flood,Australia,-22.46,149.54,2,australia flood
+2008,Flood,Bangladesh,21.02,90.21,12,bangladesh flood
+2008,Flood,Belize,15.86,-89.28,1,belize flood
+2008,Flood,Canada,44.46,-77.47,0,canada flood
+2008,Volcanic activity,Chile,-42.833,-72.65,0,chile volcanic activity
+2008,Earthquake,China,32.756,105.494,4,china earthquake
+2008,Earthquake,China,25.039,97.697,6,china earthquake
+2008,Earthquake,China,26.241,101.889,40,china earthquake
+2008,Earthquake,China,29.807,90.35,30,china earthquake
+2008,Earthquake,China,23.97,97.569,0,china earthquake
+2008,Earthquake,China,32.56,105.423,8,china earthquake
+2008,Flood,China,30.87,113.03,3,china flood
+2008,Flood,China,22.62,101.55,20,china flood
+2008,Flood,China,19.16,109.82,3,china flood
+2008,Flood,Colombia,9,-74.23,76,colombia flood
+2008,Flood,Cuba,20.61,-76.17,0,cuba flood
+2008,Flood,Ethiopia,7.585,33.31,5,ethiopia flood
+2008,Flood,Ethiopia,0.83,43.06,11,ethiopia flood
+2008,Flood,United Kingdom of Great Britain and Northern Ireland (the),52.92,-1.65,0,united kingdom of great britain and northern ireland (the) flood
+2008,Flood,Guyana,7.01,-58.58,0,guyana flood
+2008,Earthquake,Indonesia,2.768,95.964,3,indonesia earthquake
+2008,Earthquake,Indonesia,-3.935,103.058,2,indonesia earthquake
+2008,Earthquake,Indonesia,1.271,122.091,6,indonesia earthquake
+2008,Flood,Indonesia,-7.74,114,14,indonesia flood
+2008,Flood,Indonesia,4.65,95.77,0,indonesia flood
+2008,Flood,Indonesia,-6.23,106.83,0,indonesia flood
+2008,Flood,Indonesia,-6.19,106.85,3,indonesia flood
+2008,Flood,Indonesia,-7.71,112.91,3,indonesia flood
+2008,Flood,Indonesia,0.54,101.78,0,indonesia flood
+2008,Flood,Indonesia,0.68,122.52,16,indonesia flood
+2008,Flood,Indonesia,-3.33,103.14,24,indonesia flood
+2008,Landslide,Indonesia,-4.4831667,137.69,21,indonesia landslide
+2008,Flood,India,16.65,81.38,74,india flood
+2008,Flood,India,27.5,89.79,142,india flood
+2009,Storm,France,42.24,-2.6,11,france storm
+2009,Storm,Bangladesh,22.16,89.09,190,bangladesh storm
+2009,Flood,Brazil,-3.19,-45.43,56,brazil flood
+2009,Flood,Afghanistan,33.07,63.59,39,afghanistan flood
+2009,Flood,Brazil,-16.59,-44.89,16,brazil flood
+2009,Flood,Colombia,4.36,-76.51,23,colombia flood
+2009,Earthquake,Costa Rica,10.165,-84.197,31,costa rica earthquake
+2009,Earthquake,Honduras,16.731,-86.217,7,honduras earthquake
+2009,Flood,Indonesia,-2.63,120.26,18,indonesia flood
+2009,Flood,Fiji,-17.74,178.05,12,fiji flood
+2009,Flood,Indonesia,6.55,106.36,64,indonesia flood
+2009,Storm,Australia,-29.05,152.73,1,australia storm
+2009,Storm,Australia,-20.11,120.56,0,australia storm
+2009,Earthquake,Afghanistan,34.185,70.076,22,afghanistan earthquake
+2009,Flood,Angola,-9.84,14.15,2,angola flood
+2009,Flood,Angola,16.68,-17.08,60,angola flood
+2009,Landslide,Argentina,-24.15,-64.29,4,argentina landslide
+2009,Flood,Burundi,-3.27,29.75,0,burundi flood
+2009,Flood,Bosnia and Herzegovina,43.5,18.18,0,bosnia and herzegovina flood
+2009,Flood,Bolivia (Plurinational State of),-18.76,-62.62,0,bolivia (plurinational state of) flood
+2009,Flood,Botswana,-16.7,23.32,0,botswana flood
+2009,Flood,Canada,47.16,-67.63,0,canada flood
+2009,Earthquake,China,43.236,80.893,0,china earthquake
+2009,Flood,Czech Republic (the),50.13,18.03,13,czech republic (the) flood
+2009,Flood,Dominican Republic (the),19.32,-70.14,2,dominican republic (the) flood
+2009,Flood,Dominican Republic (the),19.28,-70.08,5,dominican republic (the) flood
+2009,Flood,Algeria,29.61,0.71,33,algeria flood
+2009,Flood,Guatemala,13.42,-88.64,0,guatemala flood
+2009,Flood,Haiti,19.56,-72.33,11,haiti flood
+2009,Earthquake,Indonesia,-0.414,132.885,5,indonesia earthquake
+2009,Earthquake,Indonesia,3.886,126.387,0,indonesia earthquake
+2007,Earthquake,Japan,37.535,138.446,9,japan earthquake
+2007,Earthquake,Peru,-13.386,-76.603,593,peru earthquake
+2007,Earthquake,Russian Federation (the),47.116,141.798,2,russian federation (the) earthquake
+2007,Flood,Mexico,17.67,-92.41,22,mexico flood
+2007,Flood,United States of America (the),36.86,-94.64,26,united states of america (the) flood
+2007,Storm,Mexico,20.93,-97.85,5,mexico storm
+2007,Storm,Martinique,14.64,-61.02,1,martinique storm
+2007,Storm,Nicaragua,14.62,-83.64,188,nicaragua storm
+2007,Storm,Philippines (the),17.07,106.9,8,philippines (the) storm
+2007,Storm,Philippines (the),17.08,122.01,29,philippines (the) storm
+2007,Storm,Philippines (the),8.796,124.83,20,philippines (the) storm
+2007,Earthquake,Tajikistan,38.936,70.485,11,tajikistan earthquake
+2007,Storm,Taiwan (Province of China),23.76,121.02,18,taiwan (province of china) storm
+2007,Storm,United States of America (the),47.09,-122.91,17,united states of america (the) storm
+2007,Storm,Pakistan,25.26,67.9,242,pakistan storm
+2007,Storm,Japan,31.69,130.9,5,japan storm
+2007,Flood,Korea (the Democratic People's Republic of),38.53,126.61,610,korea (the democratic people's republic of) flood
+2007,Flood,United States of America (the),32.84,-97.17,8,united states of america (the) flood
+2007,Storm,Slovenia,46.26,14.03,6,slovenia storm
+2007,Flood,Kenya,-3.61,38.69,4,kenya flood
+2007,Flood,Kyrgyzstan,40.63,73.83,0,kyrgyzstan flood
+2007,Flood,Sri Lanka,6.49,80.08,15,sri lanka flood
+2007,Flood,Nicaragua,10.98,-85.44,10,nicaragua flood
+2007,Flood,Nepal,27.78,84.08,214,nepal flood
+2007,Flood,Pakistan,35.95,74.34,22,pakistan flood
+2007,Flood,Philippines (the),8.796,124.833,11,philippines (the) flood
+2007,Flood,Philippines (the),13.36,123.38,20,philippines (the) flood
+2007,Flood,Rwanda,-1.68,29.42,20,rwanda flood
+2007,Flood,Tajikistan,39.35,69.46,1,tajikistan flood
+2007,Flood,Uganda,0.88,34.28,29,uganda flood
+2007,Flood,Kenya,0.88,34.28,13,kenya flood
+2007,Flood,Somalia,2.98,45.43,4,somalia flood
+2007,Flood,Thailand,3.89,102.93,3,thailand flood
+2007,Flood,Malawi,-16.81,35.24,0,malawi flood
+2007,Flood,Romania,46.76,25.6,2,romania flood
+2007,Flood,United States of America (the),42.23,-74.95,4,united states of america (the) flood
+2007,Storm,Japan,38.57,125.83,4,japan storm
+2007,Storm,Korea (the Republic of),34.78,126.59,20,korea (the republic of) storm
+2007,Storm,Saint Lucia,14.64,-61.02,1,saint lucia storm
+2007,Storm,Mexico,14.54,-61.02,9,mexico storm
+2007,Storm,Mexico,14.62,-83.64,0,mexico storm
+2007,Storm,Philippines (the),27,119.91,3,philippines (the) storm
+2007,Storm,Philippines (the),38.57,125.83,2,philippines (the) storm
+2007,Storm,Papua New Guinea,-9.03,149.22,172,papua new guinea storm
+2007,Storm,Puerto Rico,18.93,-71.03,1,puerto rico storm
+2007,Storm,Korea (the Democratic People's Republic of),38.57,125.83,0,korea (the democratic people's republic of) storm
+2007,Storm,Viet Nam,17.07,106.9,96,viet nam storm
+2007,Flood,Iran (Islamic Republic of),33.75,52.2,12,iran (islamic republic of) flood
+2007,Earthquake,Japan,34.807,136.239,0,japan earthquake
+2007,Flood,Kenya,-3.59,39.76,2,kenya flood
+2007,Flood,Cambodia,13.28,105.88,2,cambodia flood
+2007,Flood,Korea (the Republic of),33.4,126.72,3,korea (the republic of) flood
+2007,Flood,Liberia,6.51,-10.58,1,liberia flood
+2007,Earthquake,Saint Lucia,14.944,-61.274,0,saint lucia earthquake
+2007,Flood,Sri Lanka,7.72,81.4,0,sri lanka flood
+2007,Flood,Mexico,14.62,-83.64,0,mexico flood
+2007,Flood,Myanmar,16.91,96.13,5,myanmar flood
+2007,Flood,Myanmar,18.52,95.32,0,myanmar flood
+2007,Flood,Mozambique,-20.78,31.24,0,mozambique flood
+2007,Flood,Mozambique,-19.06,34.36,20,mozambique flood
+2007,Flood,Mauritania,16.55,-11.32,2,mauritania flood
+2007,Flood,Mauritania,15.47,-13.97,1,mauritania flood
+2007,Earthquake,Martinique,14.944,-61.274,1,martinique earthquake
+2007,Flood,Malawi,-19.06,34.36,0,malawi flood
+2007,Flood,Malaysia,3.89,102.93,29,malaysia flood
+2007,Flood,Nigeria,10.29,11.75,68,nigeria flood
+2007,Flood,Nigeria,6.96,3.3,6,nigeria flood
+2007,Flood,Pakistan,34.98,72.23,22,pakistan flood
+2007,Flood,Pakistan,34.27,71.87,130,pakistan flood
+2007,Flood,Panama,10.98,-85.44,2,panama flood
+2007,Volcanic activity,Philippines (the),12.77,124.05,0,philippines (the) volcanic activity
+2007,Storm,Philippines (the),17.57,121.76,8,philippines (the) storm
+2007,Flood,Romania,45.82,27.24,7,romania flood
+2007,Flood,Russian Federation (the),62.34,130.46,0,russian federation (the) flood
+2007,Flood,Sudan (the),12.91,33.77,150,sudan (the) flood
+2007,Flood,Senegal,15.47,-13.97,8,senegal flood
+2007,Flood,El Salvador,10.98,-85.44,2,el salvador flood
+2007,Flood,Somalia,11.82,51.02,21,somalia flood
+2007,Flood,Chad,11.54,19.05,12,chad flood
+2007,Flood,Chad,9.64,15.11,3,chad flood
+2007,Flood,Thailand,17.21,100.34,0,thailand flood
+2007,Flood,Thailand,16.82,102.48,10,thailand flood
+2007,Flood,Thailand,9.72,99,2,thailand flood
+2007,Flood,Tunisia,36.95,9.71,16,tunisia flood
+2007,Flood,Turkey,39.4,43.8,13,turkey flood
+2007,Flood,Turkey,41.74,26.62,1,turkey flood
+2007,Storm,Taiwan (Province of China),27,119.91,0,taiwan (province of china) storm
+2007,Flood,Uganda,0.35,32.59,4,uganda flood
+2007,Flood,Uruguay,-32.77,-55.8,2,uruguay flood
+2007,Flood,United States of America (the),30.24,-98.66,8,united states of america (the) flood
+2007,Flood,United States of America (the),33.45,-97.3,10,united states of america (the) flood
+2007,Flood,Viet Nam,15.3,108.44,55,viet nam flood
+2007,Flood,Viet Nam,15.87,107.78,15,viet nam flood
+2007,Flood,Viet Nam,16.32,107.36,83,viet nam flood
+2007,Flood,Viet Nam,11.01,105.51,3,viet nam flood
+2007,Flood,Yemen,15.08,45.73,50,yemen flood
+2008,Storm,Philippines (the),13.16,122.6,644,philippines (the) storm
+2008,Storm,Taiwan (Province of China),22.94,120.79,26,taiwan (province of china) storm
+2008,Storm,Viet Nam,22.05,105.21,162,viet nam storm
+2008,Storm,Viet Nam,21.9,104.59,46,viet nam storm
+2008,Flood,United States of America (the),39.63,-119.2,2,united states of america (the) flood
+2008,Storm,United States of America (the),39.82,-92.33,7,united states of america (the) storm
+2008,Earthquake,Japan,39.03,140.881,23,japan earthquake
+2008,Earthquake,Japan,39.802,141.464,1,japan earthquake
+2008,Flood,Kenya,0.05,35.12,17,kenya flood
+2008,Flood,Sri Lanka,7.18,80.77,25,sri lanka flood
+2008,Flood,Sri Lanka,7.83,80.82,8,sri lanka flood
+2008,Flood,Malaysia,4.94,101.8,0,malaysia flood
+2008,Flood,Nicaragua,12,-86.37,13,nicaragua flood
+2008,Earthquake,Pakistan,30.639,67.351,166,pakistan earthquake
+2008,Flood,Peru,-10.11,-73.01,40,peru flood
+2008,Flood,Philippines (the),11.64,125.22,63,philippines (the) flood
+2008,Flood,Venezuela (Bolivarian Republic of),9.77,-66.4,8,venezuela (bolivarian republic of) flood
+2008,Flood,Viet Nam,14.9,107.46,29,viet nam flood
+2008,Flood,Viet Nam,20.74,106.32,99,viet nam flood
+2008,Flood,United States of America (the),36.23,-89.15,18,united states of america (the) flood
+2008,Flood,Italy,41.83,13.16,3,italy flood
+2008,Flood,Rwanda,-1.72,29.89,0,rwanda flood
+2008,Storm,Madagascar,-18.69,46.9,93,madagascar storm
+2008,Storm,Thailand,17.31,103.66,0,thailand storm
+2008,Storm,United States of America (the),35.05,-90.45,82,united states of america (the) storm
+2008,Storm,Viet Nam,15.7,107.71,17,viet nam storm
+2008,Flood,Yemen,15.54,49.78,90,yemen flood
+2008,Flood,India,10.76,78.72,37,india flood
+2008,Earthquake,Iran (Islamic Republic of),33.86,48.59,0,iran (islamic republic of) earthquake
+2008,Earthquake,Iran (Islamic Republic of),26.743,55.828,6,iran (islamic republic of) earthquake
+2008,Flood,Iran (Islamic Republic of),53.26,-1.8,19,iran (islamic republic of) flood
+2008,Flood,Iran (Islamic Republic of),39.24,44.69,3,iran (islamic republic of) flood
+2008,Flood,Iraq,36.16,45.11,4,iraq flood
+2008,Flood,Japan,35.88,136.38,5,japan flood
+2008,Flood,Kazakhstan,42.3,68.55,1,kazakhstan flood
+2008,Flood,Kenya,4,41.9,3,kenya flood
+2008,Flood,Kenya,-3.38,38.17,0,kenya flood
+2008,Flood,Kenya,-1.57,40.12,16,kenya flood
+2008,Flood,Kenya,2.83,37.67,2,kenya flood
+2008,Earthquake,Kyrgyzstan,40.288,72.985,0,kyrgyzstan earthquake
+2008,Earthquake,Kyrgyzstan,39.533,73.824,74,kyrgyzstan earthquake
+2008,Flood,Sri Lanka,8.57,80.8,15,sri lanka flood
+2008,Flood,Morocco,33.73,-4.77,30,morocco flood
+2008,Flood,Morocco,32.11,-7.11,9,morocco flood
+2008,Flood,Mozambique,-22.92,34.03,25,mozambique flood
+2008,Flood,Malaysia,6.64,101.1,0,malaysia flood
+2008,Flood,Namibia,-17.05,17.26,42,namibia flood
+2008,Flood,Pakistan,33.92,71.7,36,pakistan flood
+2008,Flood,Pakistan,30.74,72.63,37,pakistan flood
+2008,Flood,Philippines (the),17.95,147.03,10,philippines (the) flood
+2008,Flood,Philippines (the),17.2,121.8,29,philippines (the) flood
+2008,Earthquake,Russian Federation (the),43.372,46.254,13,russian federation (the) earthquake
+2008,Earthquake,Rwanda,-2.296,28.9,36,rwanda earthquake
+2008,Flood,Somalia,1.25,43.5,0,somalia flood
+2008,Flood,Suriname,8.25,-64.88,2,suriname flood
+2008,Flood,Chad,9.233,18.35,0,chad flood
+2008,Flood,Thailand,7.55,100.1,21,thailand flood
+2008,Flood,Thailand,6.64,101.1,0,thailand flood
+2008,Flood,"Tanzania, United Republic of",-3.38,38.17,1,"tanzania, united republic of flood"
+2008,Earthquake,United States of America (the),41.1444,-114.8721,0,united states of america (the) earthquake
+2008,Flood,United States of America (the),42.84,-123.77,0,united states of america (the) flood
+2008,Flood,Viet Nam,12.14,107.83,4,viet nam flood
+2008,Flood,Viet Nam,18.89,107.06,9,viet nam flood
+2009,Earthquake,Italy,42.334,13.334,295,italy earthquake
+2009,Flood,Solomon Islands,-8.14,-158.66,21,solomon islands flood
+2009,Flood,Tajikistan,38.51,71.29,21,tajikistan flood
+2009,Flood,United States of America (the),37.66,-81.28,0,united states of america (the) flood
+2009,Flood,Morocco,32.65,-6.16,24,morocco flood
+2009,Storm,Madagascar,-17.69,46.42,12,madagascar storm
+2009,Flood,Romania,47.61,24.93,11,romania flood
+2009,Flood,United States of America (the),48.25,-97.03,2,united states of america (the) flood
+2009,Flood,United States of America (the),30.84,-85.23,0,united states of america (the) flood
+2007,Flood,Congo (the Democratic Republic of the),-4.37,15.38,32,congo (the democratic republic of the) flood
+2007,Flood,Montenegro,42.46,20.8,0,montenegro flood
+2007,Flood,Zimbabwe,-16.66,31.24,3,zimbabwe flood
+2007,Flood,South Africa,-34.09,19.58,0,south africa flood
+2007,Flood,Zambia,-15.94,27.77,10,zambia flood
+2007,Flood,Zimbabwe,-20.78,31.24,24,zimbabwe flood
+2007,Flood,Serbia,42.76,20.8,0,serbia flood
+2008,Flood,South Africa,-29.67,31.09,11,south africa flood
+2008,Earthquake,Congo (the Democratic Republic of the),-2.296,28.9,11,congo (the democratic republic of the) earthquake
+2008,Flood,South Sudan,9.24,29.66,17,south sudan flood
+2009,Earthquake,Indonesia,-8.207,118.631,1195,indonesia earthquake
+2009,Landslide,Brazil,-22.98,-44.07,74,brazil landslide
+2009,Flood,Bangladesh,25.26,89.09,6,bangladesh flood
+2009,Flood,Brazil,-22.54,-43.12,3,brazil flood
+2009,Flood,China,25.31,112.71,90,china flood
+2009,Flood,China,26.62,105.15,12,china flood
+2009,Flood,China,30.86,101.18,20,china flood
+2009,Earthquake,Indonesia,-7.782,107.297,128,indonesia earthquake
+2009,Flood,India,11.47,77.85,70,india flood
+2009,Earthquake,American Samoa,-15.489,-172.095,34,american samoa earthquake
+2009,Flood,Ghana,5.73,-0.1,16,ghana flood
+2009,Flood,South Africa,-29.41,30.82,3,south africa flood
+2009,Flood,Zambia,-18.76,24.23,31,zambia flood
+2009,Earthquake,Albania,41.483,20.388,0,albania earthquake
+2009,Flood,Argentina,-32.99,-59.05,7,argentina flood
+2009,Flood,Australia,-31.17,151.75,0,australia flood
+2009,Flood,Austria,47.4,15.71,0,austria flood
+2009,Flood,Bosnia and Herzegovina,44.87,17.48,0,bosnia and herzegovina flood
+2009,Flood,Brazil,56.4778,31.26,11,brazil flood
+2009,Earthquake,Bhutan,-15.489,-172.095,11,bhutan earthquake
+2009,Earthquake,China,25.632,101.095,1,china earthquake
+2009,Flood,China,26.85,110.28,11,china flood
+2009,Flood,United Kingdom of Great Britain and Northern Ireland (the),54,-1.66,3,united kingdom of great britain and northern ireland (the) flood
+2009,Earthquake,Georgia,42.66,43.443,0,georgia earthquake
+2009,Flood,Ghana,8.85,-0.99,24,ghana flood
+2009,Earthquake,Indonesia,-0.72,99.867,2,indonesia earthquake
+2009,Flood,India,15.71,78.23,355,india flood
+2009,Earthquake,Iran (Islamic Republic of),27.334,56.202,0,iran (islamic republic of) earthquake
+2010,Earthquake,Afghanistan,35.633,67.658,11,afghanistan earthquake
+2010,Flood,Afghanistan,35.21,68.85,65,afghanistan flood
+2010,Flood,Australia,-38.07,143.32,0,australia flood
+2010,Flood,Belgium,50.85,4.35,3,belgium flood
+2010,Flood,Brazil,-22.44,-43.33,256,brazil flood
+2010,Earthquake,China,25.558,105.804,8,china earthquake
+2010,Flood,Costa Rica,9.074,-83.31,24,costa rica flood
+2010,Flood,France,43.5,6.6,25,france flood
+2010,Flood,Haiti,18.42,73.77,27,haiti flood
+2010,Earthquake,Indonesia,-2.174,136.543,17,indonesia earthquake
+2010,Flood,Indonesia,-1.22,132.81,291,indonesia flood
+2010,Flood,Indonesia,-2.14,114.97,21,indonesia flood
+2010,Flood,India,33.53,76.12,196,india flood
+2010,Flood,India,26.73,82.84,200,india flood
+2010,Earthquake,Chile,-36.122,-72.898,562,chile earthquake
+2010,Earthquake,Indonesia,-3.487,100.082,530,indonesia earthquake
+2010,Flood,Burkina Faso,12.94,-1.39,16,burkina faso flood
+2010,Flood,Spain,37.811,-5.87,2,spain flood
+2010,Storm,Haiti,20.48,-75.88,21,haiti storm
+2010,Volcanic activity,Iceland,63.62959,-19.64,0,iceland volcanic activity
+2010,Flood,Afghanistan,34.38,62.25,70,afghanistan flood
+2010,Flood,Angola,-16.11,17.25,7,angola flood
+2010,Flood,Australia,-32.42,149.59,0,australia flood
+2010,Flood,Australia,-26.21,147.95,0,australia flood
+2010,Flood,Australia,-29.83,147.38,0,australia flood
+2010,Flood,Australia,-24.77,147.63,35,australia flood
+2010,Flood,Bangladesh,24.21,91.03,15,bangladesh flood
+2010,Flood,Bolivia (Plurinational State of),-17.83,-63.6,26,bolivia (plurinational state of) flood
+2010,Earthquake,China,30.268,105.668,1,china earthquake
+2010,Earthquake,China,25.523,101.903,0,china earthquake
+2010,Earthquake,China,33.165,96.548,2968,china earthquake
+2010,Earthquake,China,27.197,103.005,0,china earthquake
+2010,Flood,Colombia,4.113,-72.96,418,colombia flood
+2010,Flood,Dominican Republic (the),19.63,-70.56,1,dominican republic (the) flood
+2010,Flood,Dominican Republic (the),19.25,-70.39,6,dominican republic (the) flood
+2010,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2010,Flood,Egypt,28.08,31.09,12,egypt flood
+2010,Flood,Greece,40.106,21.46,1,greece flood
+2010,Volcanic activity,Guatemala,14.381,-90.601,0,guatemala volcanic activity
+2010,Earthquake,Haiti,18.443,-72.571,222570,haiti earthquake
+2010,Volcanic activity,Indonesia,3.17,98.392,1,indonesia volcanic activity
+2010,Flood,Indonesia,-8.672,121.6,16,indonesia flood
+2010,Flood,India,30.18,74.77,53,india flood
+2010,Flood,India,15.22,79.48,27,india flood
+2010,Flood,India,26.235,92.25,0,india flood
+2010,Flood,India,25.965,76.05,0,india flood
+2010,Flood,India,9.88,78.47,203,india flood
+2010,Earthquake,Iran (Islamic Republic of),32.45,48.3,0,iran (islamic republic of) earthquake
+2010,Earthquake,Iran (Islamic Republic of),35.221,59.317,0,iran (islamic republic of) earthquake
+2010,Earthquake,Iran (Islamic Republic of),27.022,53.861,1,iran (islamic republic of) earthquake
+2010,Earthquake,Iran (Islamic Republic of),33.37,48.94,0,iran (islamic republic of) earthquake
+2010,Earthquake,Iran (Islamic Republic of),28.412,59.18,7,iran (islamic republic of) earthquake
+2010,Earthquake,Iran (Islamic Republic of),35.49,54.47,3,iran (islamic republic of) earthquake
+2011,Flood,Bolivia (Plurinational State of),-16.4659,-65.6,52,bolivia (plurinational state of) flood
+2011,Flood,Brazil,-23.783,-48.16,10,brazil flood
+2011,Flood,Brazil,-28.28,-52.91,12,brazil flood
+2011,Flood,Brazil,-8.65047,-38.11,15,brazil flood
+2011,Flood,China,27.0633,108.11,6,china flood
+2011,Flood,China,27.89,14.47,467,china flood
+2011,Flood,Colombia,5.69,-74.15,138,colombia flood
+2011,Earthquake,India,27.73,88.155,112,india earthquake
+2011,Earthquake,Indonesia,38.297,142.373,1,indonesia earthquake
+2011,Flood,Afghanistan,35.0754,63.99,25,afghanistan flood
+2011,Volcanic activity,Argentina,-40.59,-72.12,0,argentina volcanic activity
+2011,Flood,Australia,-18.939,122.73,0,australia flood
+2011,Flood,Bangladesh,22.564,89.05,10,bangladesh flood
+2011,Earthquake,Bhutan,27.73,88.155,1,bhutan earthquake
+2011,Volcanic activity,Chile,-40.59,-72.12,0,chile volcanic activity
+2011,Earthquake,China,24.693,97.943,0,china earthquake
+2011,Earthquake,China,24.727,97.957,25,china earthquake
+2011,Earthquake,China,20.687,99.822,0,china earthquake
+2011,Earthquake,China,27.73,88.155,7,china earthquake
+2011,Flood,Dominican Republic (the),18.59,-71.99,4,dominican republic (the) flood
+2011,Earthquake,Spain,37.699,-1.672,10,spain earthquake
+2011,Flood,Ghana,7.8439,-0.45,6,ghana flood
+2011,Flood,Indonesia,-6.8436,108.26,0,indonesia flood
+2011,Flood,Indonesia,4.211,97.09,21,indonesia flood
+2011,Flood,India,22.306,88.34,47,india flood
+2009,Earthquake,Japan,34.743,138.264,1,japan earthquake
+2009,Storm,Philippines (the),17.57,121.42,512,philippines (the) storm
+2009,Storm,El Salvador,13.77,-89,275,el salvador storm
+2009,Flood,Italy,38.11,15.73,35,italy flood
+2009,Flood,Nicaragua,13.42,-88.64,0,nicaragua flood
+2009,Flood,Nepal,29.81,80.76,87,nepal flood
+2009,Flood,Nepal,28,85.71,30,nepal flood
+2009,Flood,Peru,-12.99,-72.94,158,peru flood
+2009,Flood,Sierra Leone,8.57,-12.73,103,sierra leone flood
+2009,Flood,Turkey,41,40.04,7,turkey flood
+2009,Landslide,Turkey,40.83,40.41,4,turkey landslide
+2009,Flood,"Tanzania, United Republic of",-6.77,35.89,20,"tanzania, united republic of flood"
+2009,Earthquake,Tonga,-15.489,-172.095,9,tonga earthquake
+2009,Volcanic activity,Philippines (the),13.257,123.685,0,philippines (the) volcanic activity
+2009,Flood,Lao People's Democratic Republic (the),17.83,104.79,10,lao people's democratic republic (the) flood
+2009,Flood,Sri Lanka,7.07,79.94,0,sri lanka flood
+2009,Flood,Sri Lanka,8.02,81.27,3,sri lanka flood
+2009,Flood,Morocco,31.81,-6.78,5,morocco flood
+2009,Flood,Mexico,19.5,-99.25,4,mexico flood
+2009,Flood,Mexico,18.48,-91.05,0,mexico flood
+2009,Flood,Mexico,16.45,-96.97,11,mexico flood
+2009,Earthquake,Malawi,-9.948,33.878,1,malawi earthquake
+2009,Earthquake,Malawi,-10.108,33.818,3,malawi earthquake
+2009,Flood,Malaysia,5.74,100.96,0,malaysia flood
+2009,Flood,Malaysia,4.99,102.36,0,malaysia flood
+2009,Flood,Nigeria,12.26,5.68,0,nigeria flood
+2009,Flood,Pakistan,33.92,72.25,36,pakistan flood
+2009,Flood,Pakistan,24.99,67.19,52,pakistan flood
+2009,Earthquake,Philippines (the),6.513,124.715,0,philippines (the) earthquake
+2009,Flood,Paraguay,-25.1,-56.27,0,paraguay flood
+2009,Flood,Saudi Arabia,40.23,21.24,161,saudi arabia flood
+2009,Flood,Sudan (the),27.01,15.98,20,sudan (the) flood
+2009,Flood,Senegal,15.58,-16.81,6,senegal flood
+2009,Flood,Thailand,18.48,-91.05,15,thailand flood
+2009,Flood,Turkey,41.09,38.95,40,turkey flood
+2009,Flood,"Tanzania, United Republic of",-6.8,36.02,18,"tanzania, united republic of flood"
+2009,Flood,Uruguay,-31.26,-56.48,1,uruguay flood
+2009,Flood,Viet Nam,20.67,104.3,20,viet nam flood
+2009,Flood,Viet Nam,15.19,108.02,17,viet nam flood
+2010,Storm,Jamaica,18.19,-77.29,15,jamaica storm
+2010,Earthquake,Solomon Islands,-8.783,157.354,0,solomon islands earthquake
+2010,Flood,Portugal,32.76,-16.97,43,portugal flood
+2010,Flood,Mexico,19.94,-99,41,mexico flood
+2010,Flood,Kenya,0.01,34.5,94,kenya flood
+2010,Flood,Nepal,28.35,84.78,12,nepal flood
+2010,Flood,Panama,8.88,-78.59,13,panama flood
+2010,Flood,Philippines (the),8.132,125.57,110,philippines (the) flood
+2010,Flood,Philippines (the),17.71,121.8,16,philippines (the) flood
+2010,Flood,Venezuela (Bolivarian Republic of),9.77,-66.93,41,venezuela (bolivarian republic of) flood
+2010,Flood,Kazakhstan,45.08,79.21,44,kazakhstan flood
+2010,Flood,Nigeria,12.78,4.5,40,nigeria flood
+2010,Storm,Philippines (the),17.1,121.47,146,philippines (the) storm
+2010,Storm,Taiwan (Province of China),22.429,120.7,2,taiwan (province of china) storm
+2010,Storm,United States of America (the),36.07,-87.28,30,united states of america (the) storm
+2010,Storm,United States of America (the),28.89,-97.06,8,united states of america (the) storm
+2010,Flood,Morocco,9.77,-66.93,32,morocco flood
+2010,Flood,Italy,45.13,11.14,0,italy flood
+2010,Flood,Kenya,1.5,36,100,kenya flood
+2010,Flood,Liberia,6.01,-7.2,1,liberia flood
+2010,Flood,Sri Lanka,7.275,80.3,7,sri lanka flood
+2010,Flood,Sri Lanka,6.83,80.59,28,sri lanka flood
+2010,Flood,Moldova (the Republic of),46.82,27.97,1,moldova (the republic of) flood
+2010,Earthquake,Mexico,32.2861667,-115.2953333,2,mexico earthquake
+2010,Flood,Mozambique,-19.96,34.25,5,mozambique flood
+2010,Flood,Mauritania,16.245,-7.65,0,mauritania flood
+2010,Flood,Namibia,-18.69,23.23,8,namibia flood
+2010,Flood,Niger (the),13.6,14,3,niger (the) flood
+2010,Earthquake,New Zealand,-43.522,171.83,0,new zealand earthquake
+2010,Flood,Pakistan,30.51,66.95,60,pakistan flood
+2010,Flood,Pakistan,36.03,72.08,46,pakistan flood
+2010,Flood,Panama,9.11,-82.64,0,panama flood
+2010,Flood,Peru,-4.68,-78.29,20,peru flood
+2010,Volcanic activity,Philippines (the),12.77,124.05,0,philippines (the) volcanic activity
+2010,Flood,Philippines (the),6.78,125.3,27,philippines (the) flood
+2010,Flood,Korea (the Democratic People's Republic of),39.59,125.71,0,korea (the democratic people's republic of) flood
+2010,Flood,Korea (the Democratic People's Republic of),40.365,124.97,0,korea (the democratic people's republic of) flood
+2010,Flood,Saudi Arabia,21.51,41.92,14,saudi arabia flood
+2010,Flood,Saudi Arabia,20.61,41.17,10,saudi arabia flood
+2010,Flood,Sudan (the),18.7,36.7,33,sudan (the) flood
+2010,Flood,Somalia,9.2,45.49,0,somalia flood
+2010,Flood,Chad,11.385,14.63,24,chad flood
+2010,Flood,Thailand,15.03,102.2,258,thailand flood
+2010,Earthquake,Tajikistan,38.245,71.467,0,tajikistan earthquake
+2010,Earthquake,Turkey,38.864,39.986,51,turkey earthquake
+2010,Earthquake,Taiwan (Province of China),22.918,120.795,0,taiwan (province of china) earthquake
+2010,Flood,Ukraine,48.59,24.79,6,ukraine flood
+2010,Earthquake,United States of America (the),40.652,-124.6925,0,united states of america (the) earthquake
+2010,Flood,United States of America (the),39.48,-74.87,0,united states of america (the) flood
+2010,Flood,United States of America (the),34.58,-95.1,20,united states of america (the) flood
+2010,Flood,United States of America (the),38.8497,-120.73,0,united states of america (the) flood
+2010,Flood,Viet Nam,12.52,108.9,31,viet nam flood
+2010,Flood,Viet Nam,15.1821,108.8,50,viet nam flood
+2011,Flood,Philippines (the),125.091,259.63,16,philippines (the) flood
+2011,Storm,Mexico,22.11,-98.75,22,mexico storm
+2011,Earthquake,Japan,38.297,142.373,19846,japan earthquake
+2011,Flood,Sri Lanka,7.60326,81.25,47,sri lanka flood
+2011,Flood,Philippines (the),9.40044,125.78,23,philippines (the) flood
+2011,Flood,Philippines (the),8.306,125.21,12,philippines (the) flood
+2011,Flood,Thailand,8.666,99.28,64,thailand flood
+2011,Flood,Thailand,17.038,102.82,813,thailand flood
+2011,Storm,United States of America (the),40.186,-70.06,46,united states of america (the) storm
+2011,Earthquake,Japan,38.276,141.588,2,japan earthquake
+2011,Flood,Kazakhstan,51.448,53.67,2,kazakhstan flood
+2011,Earthquake,Kyrgyzstan,40.081,71.41,0,kyrgyzstan earthquake
+2011,Flood,Lao People's Democratic Republic (the),19.3801,101.56,14,lao people's democratic republic (the) flood
+2011,Flood,Sri Lanka,8.513,80.53,18,sri lanka flood
+2011,Flood,Lesotho,-29.5025,28.08,26,lesotho flood
+2011,Earthquake,Myanmar,20.687,99.822,74,myanmar earthquake
+2011,Flood,Malaysia,-4.05208,104.67,2,malaysia flood
+2011,Flood,Namibia,-18.188,20.64,108,namibia flood
+2011,Flood,Nigeria,12.5947,8.64,20,nigeria flood
+2011,Flood,Nigeria,8.7372,4.47,120,nigeria flood
+2011,Earthquake,Nepal,27.73,88.155,7,nepal earthquake
+2011,Flood,Nepal,28.9081,82.28,15,nepal flood
+2011,Earthquake,New Zealand,-43.583,172.68,181,new zealand earthquake
+2011,Earthquake,Pakistan,28.777,63.951,2,pakistan earthquake
+2011,Flood,Pakistan,25.012,69.07,509,pakistan flood
+2011,Volcanic activity,Philippines (the),12.77,124.05,0,philippines (the) volcanic activity
+2011,Flood,Philippines (the),7.39811,126.05,31,philippines (the) flood
+2011,Flood,Philippines (the),124.865,7.1,11,philippines (the) flood
+2011,Flood,Saudi Arabia,21.3521,39.94,11,saudi arabia flood
+2011,Earthquake,Thailand,20.687,99.822,1,thailand earthquake
+2011,Earthquake,Tajikistan,40.081,71.41,0,tajikistan earthquake
+2011,Earthquake,Turkey,39.149,29.103,3,turkey earthquake
+2011,Flood,United States of America (the),34.1,-90.83,1,united states of america (the) flood
+2011,Earthquake,Uzbekistan,40.081,71.41,13,uzbekistan earthquake
+2009,Earthquake,Samoa,-15.489,-172.095,148,samoa earthquake
+2009,Flood,South Africa,-33.07,18.92,11,south africa flood
+2010,Flood,Yemen,16.73,47.92,15,yemen flood
+2010,Storm,Viet Nam,22.11,105.95,10,viet nam storm
+2010,Flood,Yemen,14.03,44.31,7,yemen flood
+2010,Earthquake,Serbia,43.76,20.73,2,serbia earthquake
+2010,Flood,Serbia,44.47,21.14,0,serbia flood
+2011,Earthquake,China,43.015,88.247,0,china earthquake
+2011,Flood,Colombia,4.64,-73.94,135,colombia flood
+2011,Volcanic activity,Indonesia,0.8,127.33,3,indonesia volcanic activity
+2011,Flood,South Africa,-31.055,28.41,40,south africa flood
+2011,Flood,Angola,-6.284,15.46,0,angola flood
+2011,Flood,Brazil,-30.34,-52.64,3,brazil flood
+2011,Earthquake,China,43.648,82.437,0,china earthquake
+2011,Earthquake,China,39.955,77.028,0,china earthquake
+2011,Flood,China,37.417,109.53,22,china flood
+2011,Flood,Algeria,29.565,1.7,10,algeria flood
+2011,Flood,Ghana,5.5847,-0.95,14,ghana flood
+2011,Earthquake,Guatemala,14.186,-90.238,3,guatemala earthquake
+2011,Earthquake,Indonesia,2.965,97.893,10,indonesia earthquake
+2011,Volcanic activity,Indonesia,1.358333,124.79,0,indonesia volcanic activity
+2011,Flood,Indonesia,-4.39,137.83,18,indonesia flood
+2011,Flood,Indonesia,-7.379,110.24,10,indonesia flood
+2011,Flood,India,20.651,86,239,india flood
+2011,Flood,India,26.59,92.18,7,india flood
+2011,Flood,India,26.376,86.24,204,india flood
+2011,Flood,India,28.524,80.93,19,india flood
+2012,Earthquake,Afghanistan,36.023,69.351,73,afghanistan earthquake
+2012,Flood,Bangladesh,22.1723,92.1,139,bangladesh flood
+2012,Flood,China,33.4553,106.94,91,china flood
+2012,Flood,Ecuador,-0.5987,-79.5,29,ecuador flood
+2012,Flood,Fiji,-17.784,178.08,10,fiji flood
+2012,Flood,Georgia,42.0681,44.52,5,georgia flood
+2012,Flood,Haiti,19.4433,-72.58,9,haiti flood
+2012,Flood,India,26.5659,92.44,120,india flood
+2012,Flood,India,30.1135,78.85,30,india flood
+2012,Flood,India,31.3,76.85,45,india flood
+2012,Flood,India,26.8,93.63,21,india flood
+2012,Flood,Bulgaria,42.555,24.26,5,bulgaria flood
+2012,Flood,Afghanistan,34.2696,64.19,74,afghanistan flood
+2012,Flood,Afghanistan,37.0528,70,20,afghanistan flood
+2012,Flood,Argentina,-27.5,-59.63,6,argentina flood
+2012,Flood,Australia,-21.71,146.64,2,australia flood
+2012,Earthquake,Azerbaijan,41.549,46.789,0,azerbaijan earthquake
+2012,Earthquake,Azerbaijan,41.439,46.789,0,azerbaijan earthquake
+2012,Earthquake,Bulgaria,42.645,22.968,0,bulgaria earthquake
+2012,Flood,Brazil,-10.4897,-67.99,3,brazil flood
+2012,Flood,Canada,46.5994,-67.5,0,canada flood
+2012,Earthquake,Chile,-35.2,-72.217,1,chile earthquake
+2012,Flood,Chile,-52.8256,-69.41,0,chile flood
+2012,Earthquake,China,27.767,100.781,4,china earthquake
+2012,Earthquake,China,43.433,84.7,0,china earthquake
+2012,Earthquake,China,27.575,103.983,81,china earthquake
+2012,Earthquake,China,32.978,119.593,1,china earthquake
+2012,Earthquake,China,38.745,88.098,0,china earthquake
+2012,Earthquake,China,39.383,81.307,0,china earthquake
+2012,Flood,China,92.4515,106.49,53,china flood
+2012,Flood,China,31.41,113.04,58,china flood
+2012,Flood,Colombia,3.606,-73.07,17,colombia flood
+2012,Earthquake,Costa Rica,10.085,-85.315,2,costa rica earthquake
+2012,Flood,Fiji,-17.7982,178.02,5,fiji flood
+2012,Flood,United Kingdom of Great Britain and Northern Ireland (the),54.04,-2.13,3,united kingdom of great britain and northern ireland (the) flood
+2012,Flood,United Kingdom of Great Britain and Northern Ireland (the),53.45,-1.19,4,united kingdom of great britain and northern ireland (the) flood
+2012,Flood,Greece,39.8677,21.01,1,greece flood
+2012,Earthquake,Guatemala,13.988,-91.895,44,guatemala earthquake
+2012,Storm,Haiti,19.1356,-72.28,13,haiti storm
+2012,Earthquake,Indonesia,2.327,93.063,7,indonesia earthquake
+2012,Earthquake,Indonesia,-1.315,120.096,6,indonesia earthquake
+2013,Flood,China,23.6387,114.46,55,china flood
+2013,Flood,Brazil,-18.9538,-41.94,64,brazil flood
+2013,Earthquake,China,34.512,104.262,95,china earthquake
+2013,Earthquake,China,28.2425,99.3502,3,china earthquake
+2013,Earthquake,Indonesia,4.645,96.665,48,indonesia earthquake
+2013,Flood,Indonesia,1.0256,124.51,17,indonesia flood
+2013,Flood,India,32.714,76.61,6054,india flood
+2013,Storm,China,22.7696,113.69,88,china storm
+2013,Earthquake,Afghanistan,34.526,70.22,18,afghanistan earthquake
+2013,Flood,Afghanistan,36.9291,68.85,20,afghanistan flood
+2013,Flood,Argentina,-34.4809,-58.68,52,argentina flood
+2013,Flood,Canada,51.24,-109.64,4,canada flood
+2013,Earthquake,China,25.98,99.812,0,china earthquake
+2013,Earthquake,China,30.308,102.888,198,china earthquake
+2013,Earthquake,China,44.5993,124.1681,0,china earthquake
+2013,Earthquake,China,31.066,110.412,0,china earthquake
+2013,Earthquake,China,25.953,99.782,0,china earthquake
+2013,Earthquake,China,40.253,78.944,0,china earthquake
+2013,Flood,China,30.4563,104.02,233,china flood
+2013,Flood,China,35.9161,100.18,43,china flood
+2013,Storm,China,25.8633,118.14,1,china storm
+2013,Earthquake,Colombia,1.135,-77.393,0,colombia earthquake
+2013,Flood,Cuba,22.9043,-81.4,2,cuba flood
+2013,Flood,Germany,49.1358,12.11,4,germany flood
+2013,Flood,United Kingdom of Great Britain and Northern Ireland (the),53.2732,-1.51,2,united kingdom of great britain and northern ireland (the) flood
+2013,Earthquake,Guatemala,14.6056,-92.1207,1,guatemala earthquake
+2013,Earthquake,Hungary,47.624,20.227,0,hungary earthquake
+2013,Earthquake,Indonesia,4.927,95.907,1,indonesia earthquake
+2013,Earthquake,Indonesia,5.1033,95.9709,1,indonesia earthquake
+2013,Volcanic activity,Indonesia,3.17,98.392,0,indonesia volcanic activity
+2013,Flood,Indonesia,-6.17945,106.73,34,indonesia flood
+2013,Flood,Indonesia,-0.86702,121.88,8,indonesia flood
+2013,Flood,Indonesia,4.48013,97.29,0,indonesia flood
+2013,Earthquake,India,33.061,75.863,3,india earthquake
+2014,Landslide,Bolivia (Plurinational State of),-13.3888,-64.01,74,bolivia (plurinational state of) landslide
+2014,Flood,France,43.9958,7.1,4,france flood
+2014,Earthquake,Greece,38.2082,20.4528,0,greece earthquake
+2014,Volcanic activity,Indonesia,3.17,98.392,32,indonesia volcanic activity
+2014,Flood,Indonesia,-6.6324,107.71,32,indonesia flood
+2011,Storm,Philippines (the),8.526,124.88,1439,philippines (the) storm
+2011,Flood,Italy,44.422,9.33,10,italy flood
+2011,Flood,Korea (the Republic of),37.851,126.87,53,korea (the republic of) flood
+2011,Earthquake,New Zealand,-43.564,172.743,1,new zealand earthquake
+2011,Flood,Uganda,1.664,33.67,27,uganda flood
+2011,Flood,Kenya,0.1257,35.57,8,kenya flood
+2011,Flood,Kenya,0.385,36.12,25,kenya flood
+2011,Flood,Cambodia,12.004,105.5,247,cambodia flood
+2011,Earthquake,Mexico,17.986,-99.789,2,mexico earthquake
+2011,Flood,Niger (the),414.951,4.56,7,niger (the) flood
+2011,Earthquake,Peru,-14.438,-75.966,1,peru earthquake
+2011,Earthquake,Philippines (the),7.904,125.195,0,philippines (the) earthquake
+2011,Volcanic activity,Philippines (the),14.002,120.993,0,philippines (the) volcanic activity
+2011,Flood,Philippines (the),8.085,125.93,0,philippines (the) flood
+2011,Earthquake,Turkey,38.721,43.508,604,turkey earthquake
+2011,Earthquake,Turkey,38.429,43.229,40,turkey earthquake
+2011,Flood,"Tanzania, United Republic of",-6.917,39.04,20,"tanzania, united republic of flood"
+2011,Flood,"Tanzania, United Republic of",-6.647,37.56,8,"tanzania, united republic of flood"
+2012,Storm,India,11.82,78.08,40,india storm
+2012,Flood,Sri Lanka,7.976,80.77,53,sri lanka flood
+2012,Earthquake,Myanmar,23.005,95.885,38,myanmar earthquake
+2012,Earthquake,Philippines (the),9.999,123.206,113,philippines (the) earthquake
+2012,Storm,Korea (the Democratic People's Republic of),38.19,126.24,59,korea (the democratic people's republic of) storm
+2012,Earthquake,Iran (Islamic Republic of),38.329,46.826,306,iran (islamic republic of) earthquake
+2012,Earthquake,Iran (Islamic Republic of),33.506,59.571,6,iran (islamic republic of) earthquake
+2012,Earthquake,Iran (Islamic Republic of),36.288,58.835,0,iran (islamic republic of) earthquake
+2012,Flood,Iran (Islamic Republic of),36.53,54.26,7,iran (islamic republic of) flood
+2012,Earthquake,Italy,44.89,11.23,7,italy earthquake
+2012,Earthquake,Italy,44.851,11.086,17,italy earthquake
+2012,Flood,Italy,43.1605,12.41,4,italy flood
+2012,Flood,Kenya,-0.191962,35.19,73,kenya flood
+2012,Earthquake,Mexico,16.493,-98.231,2,mexico earthquake
+2012,Flood,Myanmar,16.5919,97.85,2,myanmar flood
+2012,Flood,Nepal,28.524,83.83,72,nepal flood
+2012,Flood,Pakistan,28.04,68.77,480,pakistan flood
+2012,Flood,Pakistan,35.03,73.52,26,pakistan flood
+2012,Earthquake,Peru,-14.168,-75.635,0,peru earthquake
+2012,Earthquake,Philippines (the),7.905,125.044,0,philippines (the) earthquake
+2012,Earthquake,Philippines (the),10.811,126.638,1,philippines (the) earthquake
+2012,Flood,Philippines (the),6.873,124.78,1,philippines (the) flood
+2012,Flood,Philippines (the),8.22392,125.27,0,philippines (the) flood
+2012,Flood,Russian Federation (the),42.33,47.59,7,russian federation (the) flood
+2012,Flood,Rwanda,-1.40095,29.36,5,rwanda flood
+2012,Flood,Saudi Arabia,20.5946,51.01,19,saudi arabia flood
+2012,Flood,Senegal,14.46,-15.49,19,senegal flood
+2012,Flood,Somalia,4.94,44.89,6,somalia flood
+2012,Flood,Thailand,17.09,99.64,0,thailand flood
+2012,Earthquake,Tajikistan,38.612,70.354,2,tajikistan earthquake
+2012,Flood,Taiwan (Province of China),24.0587,120.94,6,taiwan (province of china) flood
+2012,Flood,"Tanzania, United Republic of",-1.83097,34.79,10,"tanzania, united republic of flood"
+2012,Flood,Uganda,2.65,32.72,0,uganda flood
+2013,Storm,Somalia,21.68,57.43,162,somalia storm
+2013,Flood,Kenya,2.46174,36.72,96,kenya flood
+2013,Flood,Philippines (the),16.3191,121.14,31,philippines (the) flood
+2013,Flood,Korea (the Democratic People's Republic of),39.6151,126.32,51,korea (the democratic people's republic of) flood
+2013,Earthquake,Solomon Islands,-10.799,165.114,10,solomon islands earthquake
+2013,Flood,India,27.387,94.92,80,india flood
+2013,Earthquake,Iran (Islamic Republic of),28.428,51.593,37,iran (islamic republic of) earthquake
+2013,Earthquake,Iran (Islamic Republic of),28.033,61.996,0,iran (islamic republic of) earthquake
+2013,Earthquake,Iran (Islamic Republic of),29.32,51.31,8,iran (islamic republic of) earthquake
+2013,Flood,Italy,40.3,9.01,18,italy flood
+2013,Earthquake,Japan,34.369,134.828,0,japan earthquake
+2013,Flood,Kenya,1.66076,35.21,0,kenya flood
+2013,Flood,Kenya,0.058024,36.52,18,kenya flood
+2013,Flood,Sri Lanka,7.59777,80.92,52,sri lanka flood
+2013,Flood,Macedonia (the former Yugoslav Republic of),42.0408,21.58,1,macedonia (the former yugoslav republic of) flood
+2013,Flood,Myanmar,18.3122,98.16,7,myanmar flood
+2013,Flood,Mozambique,-24.8006,32.68,119,mozambique flood
+2013,Flood,Mauritius,-20.2305,57.52,11,mauritius flood
+2013,Flood,Malawi,-15.6178,35.02,3,malawi flood
+2013,Flood,Malaysia,3.58444,102.36,4,malaysia flood
+2013,Flood,Niger (the),15.0103,13.2,0,niger (the) flood
+2013,Earthquake,New Zealand,-41.704,174.337,0,new zealand earthquake
+2013,Earthquake,Pakistan,28.033,61.996,41,pakistan earthquake
+2013,Earthquake,Pakistan,26.951,65.5009,399,pakistan earthquake
+2013,Earthquake,Pakistan,27.1825,65.5052,22,pakistan earthquake
+2013,Flood,Pakistan,28.7404,69.11,234,pakistan flood
+2013,Earthquake,Peru,-15.8385,-74.5112,0,peru earthquake
+2013,Flood,Peru,-20.3461,-69.09,67,peru flood
+2013,Earthquake,Philippines (the),9.8796,124.1167,230,philippines (the) earthquake
+2013,Flood,Paraguay,-24.146,-57.65,0,paraguay flood
+2013,Flood,"Palestine, State of",32.83,36.45,5,"palestine, state of flood"
+2013,Flood,Russian Federation (the),50.0043,128.42,0,russian federation (the) flood
+2013,Flood,Russian Federation (the),44.3289,39.25,4,russian federation (the) flood
+2013,Flood,Saudi Arabia,27.41,44.81,15,saudi arabia flood
+2013,Flood,Sudan (the),13.6883,28.99,76,sudan (the) flood
+2013,Flood,Somalia,2.16964,43.66,7,somalia flood
+2013,Flood,Thailand,7.2182,100.39,23,thailand flood
+2013,Earthquake,Taiwan (Province of China),23.789,121.141,4,taiwan (province of china) earthquake
+2013,Earthquake,Taiwan (Province of China),23.828,121.215,1,taiwan (province of china) earthquake
+2014,Flood,Italy,43.9958,7.1,2,italy flood
+2014,Earthquake,Iran (Islamic Republic of),27.1502,54.4482,1,iran (islamic republic of) earthquake
+2011,Flood,United States of America (the),35.806,-79.37,2,united states of america (the) flood
+2011,Flood,Venezuela (Bolivarian Republic of),7.677,-64.77,9,venezuela (bolivarian republic of) flood
+2012,Storm,United States of America (the),30.503,-89.35,1,united states of america (the) storm
+2012,Flood,United States of America (the),30.3632,-58.51,2,united states of america (the) flood
+2012,Storm,United States of America (the),28.9635,-82.5,9,united states of america (the) storm
+2012,Flood,Viet Nam,38.19,126.24,34,viet nam flood
+2012,Flood,South Africa,-32.93,26.56,13,south africa flood
+2012,Flood,South Sudan,9.56,29.58,15,south sudan flood
+2012,Flood,South Sudan,9.69,30.21,32,south sudan flood
+2013,Flood,Saint Vincent and the Grenadines,13.9188,-60.99,12,saint vincent and the grenadines flood
+2013,Flood,United States of America (the),38.2138,-94.15,3,united states of america (the) flood
+2013,Flood,United States of America (the),28.899,-98.89,3,united states of america (the) flood
+2013,Flood,United States of America (the),38.8278,-88.64,5,united states of america (the) flood
+2013,Flood,United States of America (the),30.66,-96.01,4,united states of america (the) flood
+2013,Flood,United States of America (the),37.5597,-86.79,5,united states of america (the) flood
+2013,Flood,Viet Nam,15.58,107.7,47,viet nam flood
+2014,Flood,Bolivia (Plurinational State of),-16.4638,-63.77,38,bolivia (plurinational state of) flood
+2014,Earthquake,Chile,-19.61,-70.769,6,chile earthquake
+2014,Flood,Afghanistan,35.834,66.43,431,afghanistan flood
+2014,Flood,Burundi,-4.14041,29.65,96,burundi flood
+2014,Earthquake,China,27.1891,103.4086,731,china earthquake
+2014,Earthquake,Comoros (the),-12.228,44.3,0,comoros (the) earthquake
+2014,Earthquake,Ecuador,-0.018,-78.322,3,ecuador earthquake
+2014,Flood,Argentina,-38.3652,-70.3,0,argentina flood
+2014,Flood,Bulgaria,44.0617,24.49,0,bulgaria flood
+2014,Earthquake,China,35.9053,82.5864,0,china earthquake
+2014,Earthquake,China,28.174,103.619,0,china earthquake
+2014,Earthquake,China,24.974,97.844,0,china earthquake
+2014,Earthquake,China,24.9997,97.845,0,china earthquake
+2014,Earthquake,China,23.3834,100.4702,1,china earthquake
+2014,Earthquake,China,30.3398,101.7374,5,china earthquake
+2014,Earthquake,China,23.3577,100.533,1,china earthquake
+2014,Earthquake,Algeria,36.8561,3.181,6,algeria earthquake
+2014,Earthquake,Greece,40.2893,25.3889,3,greece earthquake
+2014,Earthquake,Guatemala,14.724,-92.4614,1,guatemala earthquake
+2015,Flood,Angola,-8.81664,13.68,1,angola flood
+2015,Flood,Chile,-22.3617,-68.89,178,chile flood
+2015,Flood,China,27.0326,114.98,58,china flood
+2015,Earthquake,Colombia,6.7757,-72.9875,0,colombia earthquake
+2015,Flood,Costa Rica,10.1743,-83.83,0,costa rica flood
+2015,Flood,Georgia,42.0683,44.54,40,georgia flood
+2015,Earthquake,Chile,-31.5729,-71.6744,19,chile earthquake
+2015,Flood,Brazil,-25.5689,-50.75,3,brazil flood
+2015,Landslide,Colombia,5.70693,-74.5,93,colombia landslide
+2015,Earthquake,Afghanistan,36.5244,70.3676,115,afghanistan earthquake
+2015,Earthquake,Afghanistan,36.4935,71.1263,0,afghanistan earthquake
+2015,Flood,Angola,-12.1145,13.88,69,angola flood
+2015,Flood,Albania,41.287,19.966,1,albania flood
+2015,Flood,Argentina,-35.1086,-59.81,3,argentina flood
+2015,Earthquake,Bangladesh,28.2305,84.7314,4,bangladesh earthquake
+2015,Flood,Bolivia (Plurinational State of),-11.5042,-65.84,0,bolivia (plurinational state of) flood
+2015,Flood,Brazil,-6.97805,-67.8,5,brazil flood
+2015,Flood,Chile,-44.1033,-72.92,0,chile flood
+2015,Earthquake,China,44.133,85.568,0,china earthquake
+2015,Earthquake,China,23.566,98.854,0,china earthquake
+2015,Earthquake,China,28.2305,84.7314,29,china earthquake
+2015,Earthquake,China,27.8087,86.0655,1,china earthquake
+2015,Earthquake,China,37.4593,78.1542,3,china earthquake
+2015,Flood,Cameroon,3.94741,9.88,4,cameroon flood
+2015,Flood,Algeria,283.337,-695.5,0,algeria flood
+2015,Volcanic activity,Ecuador,-0.677,-78.436,0,ecuador volcanic activity
+2015,Volcanic activity,Ecuador,-1.467,-78.442,0,ecuador volcanic activity
+2015,Flood,France,43.377,6.53,20,france flood
+2015,Flood,Ghana,7.38005,-0.55,25,ghana flood
+2015,Flood,Greece,41.4571,26.6,3,greece flood
+2015,Landslide,Guatemala,148.262,-906.13,350,guatemala landslide
+2015,Flood,Guyana,6.66576,-58.74,0,guyana flood
+2016,Earthquake,Ecuador,0.382,-79.92,672,ecuador earthquake
+2016,Flood,China,247.041,113.99,5,china flood
+2016,Flood,Bolivia (Plurinational State of),-12.843,-64.93,0,bolivia (plurinational state of) flood
+2016,Flood,China,27.976,114.24,289,china flood
+2016,Flood,Ethiopia,9.268,41.691,28,ethiopia flood
+2016,Flood,Angola,-832.104,13.98,23,angola flood
+2016,Flood,Angola,-115.936,160.56,30,angola flood
+2016,Earthquake,Bangladesh,24.804,93.65,5,bangladesh earthquake
+2016,Flood,Bangladesh,90.04,24.09,106,bangladesh flood
+2016,Flood,Brazil,-179.555,-56.44,3,brazil flood
+2016,Flood,Canada,582.294,123.25,0,canada flood
+2016,Flood,China,247.532,112.95,68,china flood
+2016,Flood,Germany,48.407,10.22,7,germany flood
+2016,Earthquake,Ecuador,0.495,-79.62,1,ecuador earthquake
+2016,Flood,Ecuador,-0.786,-797.01,9,ecuador flood
+2016,Flood,Ghana,641.411,116.5,10,ghana flood
+2016,Flood,Greece,37.418,22.292,4,greece flood
+2014,Flood,Solomon Islands,-9.67763,160.34,47,solomon islands flood
+2014,Flood,Marshall Islands (the),7.30951,168.73,0,marshall islands (the) flood
+2014,Volcanic activity,Indonesia,-7.93,112.308,7,indonesia volcanic activity
+2014,Earthquake,Iran (Islamic Republic of),32.5827,47.7037,0,iran (islamic republic of) earthquake
+2014,Earthquake,Japan,36.6408,137.8875,0,japan earthquake
+2014,Volcanic activity,Japan,35.893,137.48,63,japan volcanic activity
+2014,Flood,Kazakhstan,48.4049,65.59,5,kazakhstan flood
+2014,Earthquake,Mexico,17.397,-100.9723,0,mexico earthquake
+2014,Earthquake,Mexico,14.724,-92.4614,3,mexico earthquake
+2014,Earthquake,Nicaragua,11.642,-85.8779,2,nicaragua earthquake
+2014,Earthquake,Peru,-13.843,-71.695,8,peru earthquake
+2014,Volcanic activity,Philippines (the),13.257,123.685,0,philippines (the) volcanic activity
+2014,Flood,Paraguay,-25.2205,-57.58,0,paraguay flood
+2014,Flood,Romania,44.0617,24.49,0,romania flood
+2014,Earthquake,Thailand,19.6557,99.6696,1,thailand earthquake
+2015,Flood,Macedonia (the former Yugoslav Republic of),41.7575,21.19,7,macedonia (the former yugoslav republic of) flood
+2015,Storm,Philippines (the),16.691,121.24,51,philippines (the) storm
+2015,Flood,Malawi,-18.795,35.36,278,malawi flood
+2015,Flood,Pakistan,33.5131,71.89,49,pakistan flood
+2015,Flood,India,33.1767,76.41,44,india flood
+2015,Flood,India,26.2074,82.62,293,india flood
+2015,Flood,Myanmar,20.175,95.53,149,myanmar flood
+2015,Earthquake,Malaysia,5.987,116.541,24,malaysia earthquake
+2015,Earthquake,Nepal,28.23,84.731,8831,nepal earthquake
+2015,Earthquake,Nepal,27.8087,86.0655,138,nepal earthquake
+2015,Flood,Indonesia,-6.55868,108.4,0,indonesia flood
+2015,Storm,Mexico,283.812,-101.77,14,mexico storm
+2015,Flood,Haiti,18.695,-72.19,6,haiti flood
+2015,Earthquake,Indonesia,-0.621,131.262,0,indonesia earthquake
+2015,Earthquake,India,28.2305,84.7314,78,india earthquake
+2015,Earthquake,India,27.8087,86.0655,20,india earthquake
+2015,Earthquake,India,36.5244,70.3676,0,india earthquake
+2015,Flood,India,10.7121,79.18,8,india flood
+2015,Flood,India,21.8734,70.76,81,india flood
+2015,Landslide,India,26.9195,93.87,3,india landslide
+2015,Flood,India,26.8946,93.75,5,india flood
+2015,Flood,India,118.278,788.55,325,india flood
+2015,Flood,Iran (Islamic Republic of),33.6304,54.04,23,iran (islamic republic of) flood
+2015,Flood,Kenya,-0.795,36.25,13,kenya flood
+2015,Flood,Kenya,-203.643,395.13,112,kenya flood
+2015,Earthquake,Kyrgyzstan,40.376,73.204,0,kyrgyzstan earthquake
+2015,Flood,Mexico,19.4811,-103.43,0,mexico flood
+2015,Flood,Niger (the),14.8417,2.5,27,niger (the) flood
+2015,Flood,Nigeria,995.267,115.28,53,nigeria flood
+2015,Flood,New Zealand,-39.8648,175.23,0,new zealand flood
+2015,Flood,New Zealand,-41.092,175.35,1,new zealand flood
+2015,Earthquake,Pakistan,36.5244,70.3676,280,pakistan earthquake
+2015,Earthquake,Pakistan,36.4935,71.1263,3,pakistan earthquake
+2015,Flood,Pakistan,35.0129,72.84,10,pakistan flood
+2015,Flood,Pakistan,34.3432,72.27,238,pakistan flood
+2015,Flood,Philippines (the),15.5509,120.8,4,philippines (the) flood
+2015,Flood,Paraguay,-25.451,-59.27,0,paraguay flood
+2015,Flood,Paraguay,-260.369,-558.48,12,paraguay flood
+2015,Flood,Romania,46.8147,22.86,1,romania flood
+2016,Flood,Indonesia,-246.543,103.35,8,indonesia flood
+2016,Flood,Indonesia,-7.042,108.238,53,indonesia flood
+2016,Flood,India,27.464,95.607,18,india flood
+2016,Flood,Japan,326.031,130.99,7,japan flood
+2016,Flood,Pakistan,330.545,717.79,92,pakistan flood
+2016,Earthquake,Indonesia,-3.863,127.229,0,indonesia earthquake
+2016,Earthquake,India,24.804,93.65,8,india earthquake
+2016,Flood,India,27.068,93.95,61,india flood
+2016,Earthquake,Italy,42.723,13.187,296,italy earthquake
+2016,Earthquake,Japan,32.788,130.7,9,japan earthquake
+2016,Earthquake,Japan,32.791,130.75,49,japan earthquake
+2016,Earthquake,Korea (the Republic of),35.781,129.216,0,korea (the republic of) earthquake
+2016,Flood,Mexico,23.672,-104.964,5,mexico flood
+2016,Flood,Mexico,17.071,-93.805,13,mexico flood
+2016,Earthquake,Macedonia (the former Yugoslav Republic of),42.009,21.49,0,macedonia (the former yugoslav republic of) earthquake
+2016,Flood,Myanmar,183.158,952.6,14,myanmar flood
+2016,Flood,Mozambique,-12.651,394.64,16,mozambique flood
+2016,Flood,New Zealand,-42.169,172.21,0,new zealand flood
+2016,Earthquake,Pakistan,36.473,71.13,6,pakistan earthquake
+2016,Flood,Pakistan,361.038,727.93,46,pakistan flood
+2016,Earthquake,Peru,-15.64,-71.68,4,peru earthquake
+2016,Flood,Russian Federation (the),61.967,59.803,0,russian federation (the) flood
+2016,Landslide,Rwanda,-20.565,300.12,50,rwanda landslide
+2014,Earthquake,United States of America (the),38.2151667,-122.3123333,1,united states of america (the) earthquake
+2014,Flood,South Africa,-21.5153,25.61,32,south africa flood
+2014,Flood,Serbia,44.0617,24.49,0,serbia flood
+2014,Earthquake,Turkey,40.2893,25.3889,0,turkey earthquake
+2014,Flood,"Tanzania, United Republic of",7.19301,38.97,28,"tanzania, united republic of flood"
+2014,Earthquake,South Africa,-26.9899,26.7048,1,south africa earthquake
+2015,Flood,Tajikistan,37.8142,73.26,0,tajikistan flood
+2015,Flood,Tajikistan,38.0626,73.11,0,tajikistan flood
+2015,Flood,Viet Nam,20.8137,106.86,32,viet nam flood
+2015,Flood,United States of America (the),356.658,-910.83,31,united states of america (the) flood
+2015,Storm,"Tanzania, United Republic of",-4.31417,33.75,47,"tanzania, united republic of storm"
+2015,Storm,United States of America (the),335.033,-804.93,25,united states of america (the) storm
+2015,Flood,United States of America (the),34.1936,-97.99,32,united states of america (the) flood
+2015,Earthquake,Tajikistan,38.211,72.78,2,tajikistan earthquake
+2015,Flood,"Tanzania, United Republic of",-5.06017,36.89,12,"tanzania, united republic of flood"
+2015,Flood,Uruguay,-32.6329,-55.7,0,uruguay flood
+2015,Flood,Uruguay,-299.568,-535.72,0,uruguay flood
+2015,Flood,Viet Nam,205.669,104.76,2,viet nam flood
+2015,Earthquake,Congo (the Democratic Republic of the),-2.091,28.952,3,congo (the democratic republic of the) earthquake
+2015,Earthquake,Timor-Leste,-8.3381,124.8754,0,timor-leste earthquake
+2016,Storm,United States of America (the),349.452,805.54,25,united states of america (the) storm
+2016,Flood,Uruguay,-324.347,-561.95,8,uruguay flood
+2016,Flood,Dominican Republic (the),18.92,-70.125,15,dominican republic (the) flood
+2016,Earthquake,Taiwan (Province of China),22.938,120.6,117,taiwan (province of china) earthquake
+2016,Flood,United States of America (the),308.574,-955.37,15,united states of america (the) flood
+2016,Earthquake,Tajikistan,38.883,70.626,0,tajikistan earthquake
+2016,Earthquake,"Tanzania, United Republic of",1.036,31.618,17,"tanzania, united republic of earthquake"
+2016,Flood,"Tanzania, United Republic of",-476.168,355.05,3,"tanzania, united republic of flood"
+2016,Flood,"Tanzania, United Republic of",-689.427,360,13,"tanzania, united republic of flood"
+2016,Earthquake,Uganda,-1.036,31.618,4,uganda earthquake
+2016,Flood,United States of America (the),29.988,-91.8,13,united states of america (the) flood
+2016,Flood,Albania,42.254,19.446,2,albania flood
+2016,Flood,Australia,-33.277,139.898,1,australia flood
+2016,Earthquake,China,39.238,74.047,1,china earthquake
+2016,Earthquake,China,43.823,86.345,0,china earthquake
+2016,Earthquake,China,26.077,99.539,2,china earthquake
+2017,Flood,Albania,449.847,152.152,1,albania flood
+2017,Flood,Brazil,-8.096,-38.231,14,brazil flood
+2017,Flood,Chile,-30.939,-70.249,3,chile flood
+2017,Earthquake,China,33.193,103.855,29,china earthquake
+2017,Earthquake,Greece,38.915,26.371,1,greece earthquake
+2017,Flood,Greece,38.261,23.529,23,greece flood
+2017,Earthquake,Greece,36.925,27.414,2,greece earthquake
+2017,Flood,Angola,-8.718,13.656,11,angola flood
+2017,Flood,Argentina,-45.953,-67.939,1,argentina flood
+2017,Flood,Central African Republic,7.223,17.145,0,central african republic flood
+2017,Flood,Canada,45.575,-74.406,2,canada flood
+2017,Flood,Chile,-27.122,-69.952,2,chile flood
+2017,Earthquake,China,29.833,94.978,0,china earthquake
+2017,Flood,China,29.612,113.645,16,china flood
+2017,Flood,Colombia,3.723,-72.674,1,colombia flood
+2017,Flood,Colombia,1.691,-76.286,0,colombia flood
+2017,Flood,France,45.486,3.338,1,france flood
+2017,Flood,United Kingdom of Great Britain and Northern Ireland (the),53.102,-6.856,0,united kingdom of great britain and northern ireland (the) flood
+2018,Flood,Albania,40.866,19.941,0,albania flood
+2018,Flood,Brazil,-22.479,-44.095,4,brazil flood
+2018,Flood,Bolivia (Plurinational State of),-14.405,-64.013,6,bolivia (plurinational state of) flood
+2018,Flood,Ghana,9.538,-1.066,34,ghana flood
+2018,Storm,Argentina,-35.21,-58.199,2,argentina storm
+2018,Flood,Afghanistan,34.94,68.216,72,afghanistan flood
+2018,Flood,Angola,-11.247,16.007,8,angola flood
+2018,Flood,Australia,-17.015,145.218,0,australia flood
+2018,Flood,Burundi,-3.47,29.987,0,burundi flood
+2018,Flood,Burundi,-4.015,29.641,0,burundi flood
+2018,Flood,Bangladesh,23.226,92.13,21,bangladesh flood
+2018,Flood,Bulgaria,42.698,23.9,0,bulgaria flood
+2018,Flood,Brazil,-24.206,-48.623,3,brazil flood
+2018,Flood,Canada,50.358,-119.241,0,canada flood
+2018,Earthquake,China,45.279,124.557,0,china earthquake
+2018,Earthquake,China,24.332,102.941,0,china earthquake
+2018,Flood,China,23.812,108.795,5,china flood
+2018,Flood,Dominican Republic (the),19.018,-69.704,0,dominican republic (the) flood
+2018,Flood,Algeria,33.907,3.215,6,algeria flood
+2018,Flood,Spain,39.591,2.936,13,spain flood
+2018,Flood,France,48.511,1.606,0,france flood
+2019,Flood,Afghanistan,31.991,67.078,63,afghanistan flood
+2019,Flood,Bosnia and Herzegovina,44.089,19.298,0,bosnia and herzegovina flood
+2019,Flood,Brazil,-23.539,-46.124,12,brazil flood
+2019,Flood,Spain,43.284,-6.225,4,spain flood
+2019,Flood,Afghanistan,34.668,67.894,24,afghanistan flood
+2019,Earthquake,Albania,40.501,20.722,0,albania earthquake
+2019,Earthquake,Chile,-30.074,-71.423,2,chile earthquake
+2019,Flood,Chile,-21.965,-69.245,6,chile flood
+2019,Earthquake,China,29.498,104.632,2,china earthquake
+2019,Earthquake,China,28.405,104.957,13,china earthquake
+2019,Earthquake,Ecuador,-5.812,-75.27,0,ecuador earthquake
+2016,Earthquake,New Zealand,-42.725,173.064,2,new zealand earthquake
+2016,Flood,Mexico,23.273,-99.793,2,mexico flood
+2016,Flood,Haiti,19.739,-72.587,13,haiti flood
+2016,Flood,Indonesia,0.649,123.245,2,indonesia flood
+2016,Earthquake,Indonesia,-8.218,117.816,0,indonesia earthquake
+2016,Earthquake,Indonesia,5.281,96.108,104,indonesia earthquake
+2016,Flood,India,17.654,80.34,28,india flood
+2016,Earthquake,Italy,42.934,13.043,1,italy earthquake
+2016,Earthquake,Italy,42.855,13.088,0,italy earthquake
+2016,Earthquake,Japan,35.37,133.812,0,japan earthquake
+2016,Earthquake,Myanmar,20.923,94.569,4,myanmar earthquake
+2016,Flood,Malaysia,5.122,102.56,0,malaysia flood
+2016,Flood,Malaysia,4.7,102.411,0,malaysia flood
+2016,Earthquake,Peru,-15.321,-70.823,1,peru earthquake
+2017,Earthquake,Mexico,15.022,-93.899,98,mexico earthquake
+2017,Flood,Oman,243.598,559.677,3,oman flood
+2017,Earthquake,Mexico,18.55,-98.489,369,mexico earthquake
+2017,Flood,Indonesia,-7.229,109.117,9,indonesia flood
+2017,Flood,Iran (Islamic Republic of),37.704,46.169,42,iran (islamic republic of) flood
+2017,Flood,Nepal,27.295,86.427,11,nepal flood
+2017,Flood,Nepal,27.941,83.878,176,nepal flood
+2017,Flood,New Zealand,-38.204,176.79,0,new zealand flood
+2017,Flood,Peru,-11.004,-75.148,184,peru flood
+2017,Earthquake,Philippines (the),13.77,120.935,0,philippines (the) earthquake
+2017,Flood,Guyana,3.815,-59.015,0,guyana flood
+2017,Flood,Honduras,15.581,-85.367,7,honduras flood
+2017,Flood,Indonesia,-7.029,107.162,2,indonesia flood
+2017,Flood,India,10.489,79.004,21,india flood
+2017,Earthquake,Iran (Islamic Republic of),37.772,57.204,3,iran (islamic republic of) earthquake
+2017,Earthquake,Iran (Islamic Republic of),34.911,45.959,444,iran (islamic republic of) earthquake
+2017,Earthquake,Iran (Islamic Republic of),35.649,50.962,2,iran (islamic republic of) earthquake
+2017,Earthquake,Iraq,34.911,45.959,10,iraq earthquake
+2017,Flood,Italy,45.457,105.881,0,italy flood
+2017,Storm,Japan,33.2,134,2,japan storm
+2017,Flood,Kazakhstan,51.254,70.047,0,kazakhstan flood
+2017,Flood,Kenya,-2.879,37.88,26,kenya flood
+2017,Earthquake,Korea (the Republic of),36.065,129.27,0,korea (the republic of) earthquake
+2017,Flood,Sri Lanka,8.604,80.637,9,sri lanka flood
+2017,Flood,Mexico,23.917,-98.308,2,mexico flood
+2017,Flood,Malaysia,3.932,102.461,0,malaysia flood
+2017,Flood,Malaysia,5.247,101.026,7,malaysia flood
+2017,Flood,Niger (the),14.617,4.402,56,niger (the) flood
+2017,Flood,Nigeria,8.169,9.45,0,nigeria flood
+2017,Flood,Peru,-5.251,-77.573,1,peru flood
+2017,Earthquake,Philippines (the),9.907,125.452,8,philippines (the) earthquake
+2017,Earthquake,Philippines (the),11.111,124.619,3,philippines (the) earthquake
+2017,Flood,Philippines (the),10.566,123.171,0,philippines (the) flood
+2017,Flood,Philippines (the),7.59,124.062,13,philippines (the) flood
+2018,Earthquake,Indonesia,-178,119.84,4140,indonesia earthquake
+2018,Flood,Iran (Islamic Republic of),35.606,52.429,9,iran (islamic republic of) flood
+2018,Flood,Japan,35.65,137.895,246,japan flood
+2018,Flood,Sri Lanka,6.806,80.637,12,sri lanka flood
+2018,Earthquake,Papua New Guinea,-6.149,142.766,145,papua new guinea earthquake
+2018,Earthquake,Indonesia,-8.287,116.452,564,indonesia earthquake
+2018,Flood,Guatemala,15.88,-90.217,2,guatemala flood
+2018,Earthquake,Haiti,20.034,-73.013,17,haiti earthquake
+2018,Earthquake,Indonesia,-7.196,105.918,1,indonesia earthquake
+2018,Earthquake,Indonesia,-8.274,116.491,14,indonesia earthquake
+2018,Earthquake,Indonesia,-8.325,116.577,10,indonesia earthquake
+2018,Flood,Indonesia,-8.497,118.569,0,indonesia flood
+2018,Earthquake,Iran (Islamic Republic of),34.645,46.179,0,iran (islamic republic of) earthquake
+2018,Earthquake,Iran (Islamic Republic of),34.663,46.277,2,iran (islamic republic of) earthquake
+2018,Earthquake,Iran (Islamic Republic of),34.304,45.74,0,iran (islamic republic of) earthquake
+2018,Flood,Israel,31.164,34.861,12,israel flood
+2018,Earthquake,Japan,34.826,135.64,5,japan earthquake
+2018,Flood,Kazakhstan,47.381,81.478,0,kazakhstan flood
+2018,Earthquake,Mexico,16.646,-97.653,0,mexico earthquake
+2018,Flood,Myanmar,18.191,95.434,16,myanmar flood
+2018,Flood,Malawi,-14.926,34.367,0,malawi flood
+2018,Flood,Malawi,-10.351,33.847,1,malawi flood
+2018,Flood,Malawi,-11.158,34.02,4,malawi flood
+2018,Flood,Malaysia,3.133,3.659,0,malaysia flood
+2018,Flood,Malaysia,365.883,102.337,2,malaysia flood
+2018,Flood,Nigeria,10.475,8.238,199,nigeria flood
+2018,Flood,Nepal,28.238,84.398,15,nepal flood
+2018,Earthquake,Peru,-15.759,74.71,2,peru earthquake
+2018,Earthquake,Papua New Guinea,-6.307,142.62,11,papua new guinea earthquake
+2018,Earthquake,Papua New Guinea,-6.294,142.607,25,papua new guinea earthquake
+2018,Flood,Korea (the Democratic People's Republic of),38.531,126.573,148,korea (the democratic people's republic of) flood
+2018,Flood,Paraguay,-25.312,-57.599,0,paraguay flood
+2019,Flood,Mexico,20.176,-103.182,7,mexico flood
+2019,Earthquake,Japan,38.637,139.48,0,japan earthquake
+2019,Earthquake,Indonesia,-0.586,128.034,8,indonesia earthquake
+2019,Earthquake,Indonesia,-1.301,101.601,0,indonesia earthquake
+2019,Earthquake,Indonesia,-8.418,116.52,9,indonesia earthquake
+2019,Earthquake,Indonesia,-7.282,104.791,6,indonesia earthquake
+2019,Earthquake,Iran (Islamic Republic of),31.775,49.542,1,iran (islamic republic of) earthquake
+2019,Flood,Japan,32.591,130.866,2,japan flood
+2019,Flood,Libya,24.555,12.691,4,libya flood
+2019,Flood,Mongolia,47.204,111.071,12,mongolia flood
+2019,Flood,Malawi,-14.53,34.317,60,malawi flood
+2019,Earthquake,Peru,-5.812,-75.27,2,peru earthquake
+2019,Earthquake,Philippines (the),14.99,120.35,25,philippines (the) earthquake
+2019,Earthquake,Philippines (the),9.32,125.99,0,philippines (the) earthquake
+2019,Earthquake,Philippines (the),20.807,121.986,9,philippines (the) earthquake
+2019,Flood,Philippines (the),8.223,123.493,0,philippines (the) flood
+2019,Earthquake,Papua New Guinea,-4.051,152.6,0,papua new guinea earthquake
+1972,Earthquake,Afghanistan,36.278,69.681,11,afghanistan earthquake
+1973,Earthquake,China,31.398,100.581,0,china earthquake
+1974,Earthquake,Colombia,7.747,-77.688,11,colombia earthquake
+1979,Earthquake,China,41.145,108.129,0,china earthquake
+2016,Earthquake,Solomon Islands,-10.676,161.33,0,solomon islands earthquake
+2016,Flood,Ukraine,47.256,31.348,3,ukraine flood
+2016,Flood,Romania,45.151,27.562,1,romania flood
+2016,Flood,Thailand,14.867,100.395,4,thailand flood
+2016,Flood,Thailand,14.445,100.753,14,thailand flood
+2016,Earthquake,United States of America (the),35.991,-96.803,0,united states of america (the) earthquake
+2016,Flood,Viet Nam,16.004,107.68,35,viet nam flood
+2017,Flood,Taiwan (Province of China),24.302,121.216,5,taiwan (province of china) flood
+2017,Flood,Thailand,14.594,100.679,9,thailand flood
+2017,Flood,Saudi Arabia,22.707,39.365,4,saudi arabia flood
+2017,Flood,Thailand,7.305,100.061,96,thailand flood
+2017,Flood,Uruguay,-31.888,-57.432,0,uruguay flood
+2017,Flood,United States of America (the),34.349,-111.264,10,united states of america (the) flood
+2017,Flood,Viet Nam,11.664,108.399,8,viet nam flood
+2017,Flood,South Africa,-28.362,29.715,3,south africa flood
+2018,Flood,Congo (the Democratic Republic of the),-4.355,15.116,51,congo (the democratic republic of the) flood
+2018,Flood,Romania,45.946,24.989,0,romania flood
+2018,Flood,Rwanda,-1.784,30.012,24,rwanda flood
+2018,Flood,Russian Federation (the),52.883,84.596,2,russian federation (the) flood
+2018,Flood,Sudan (the),13.487,31.942,23,sudan (the) flood
+2018,Flood,Sudan (the),10.763,27.364,0,sudan (the) flood
+2018,Earthquake,El Salvador,13.095,-88.099,0,el salvador earthquake
+2018,Earthquake,Taiwan (Province of China),24.136,121.658,84,taiwan (province of china) earthquake
+2018,Flood,"Tanzania, United Republic of",-11.158,34.02,15,"tanzania, united republic of flood"
+2018,Flood,Venezuela (Bolivarian Republic of),10.426,-66.55,2,venezuela (bolivarian republic of) flood
+2019,Flood,Romania,45.624,26.653,4,romania flood
+2019,Earthquake,El Salvador,13.243,-89.272,1,el salvador earthquake
+2019,Flood,Tajikistan,37.42,69.354,4,tajikistan flood
+2019,Flood,Brazil,-39.27,-12.906,0,brazil flood
+2019,Flood,Spain,38.05,-1.091,7,spain flood
+2019,Flood,Russian Federation (the),58.911,102.485,31,russian federation (the) flood
+2019,Flood,Saudi Arabia,26.674,41.295,12,saudi arabia flood
+2019,Flood,Saudi Arabia,18.54,45.254,1,saudi arabia flood
+2019,Flood,Turkey,40.706,41.047,10,turkey flood
+2019,Earthquake,United States of America (the),35.77,-117.599,0,united states of america (the) earthquake
+2019,Flood,Zimbabwe,-19.041,30.804,26,zimbabwe flood
+2019,Earthquake,Albania,41.381,19.454,0,albania earthquake
+2019,Earthquake,Albania,41.511,19.522,51,albania earthquake
+2019,Earthquake,China,29.573,105.064,1,china earthquake
+2019,Earthquake,China,29.573,105.064,1,china earthquake
+2019,Flood,Congo (the),-1.12,18.16,0,congo (the) flood
+2019,Earthquake,Ecuador,-2.199,-77.023,0,ecuador earthquake
+2020,Flood,Brazil,-19.398,-45.901,61,brazil flood
+2020,Flood,Egypt,290.213,307.541,40,egypt flood
+2020,Flood,Angola,-913.908,142.007,30,angola flood
+2020,Flood,Burkina Faso,133.432,-111.554,0,burkina faso flood
+2020,Earthquake,China,27.296,103.281,4,china earthquake
+2020,Flood,Djibouti,116.851,426.804,8,djibouti flood
+2021,Earthquake,Argentina,-31.818,-68.847,0,argentina earthquake
+2021,Earthquake,Bhutan,26.781,92.457,0,bhutan earthquake
+2021,Earthquake,China,41.816,81.164,3,china earthquake
+2021,Earthquake,China,25.761,100.011,3,china earthquake
+2021,Earthquake,China,29.182,105.391,3,china earthquake
+1970,Earthquake,Peru,-9.9,-75.6,12,peru earthquake
+1970,Earthquake,Turkey,39.1,28.7,0,turkey earthquake
+1971,Earthquake,Indonesia,-7.2,109.1,1,indonesia earthquake
+1972,Earthquake,Italy,43.8,13.3,2,italy earthquake
+1973,Earthquake,Japan,43.233,145.785,0,japan earthquake
+1974,Earthquake,Peru,-12.299,-76.352,10,peru earthquake
+1976,Earthquake,Italy,46.302,13.197,11,italy earthquake
+1977,Earthquake,Solomon Islands,-9.965,160.731,18,solomon islands earthquake
+1979,Earthquake,Turkey,39.672,28.66,0,turkey earthquake
+1982,Earthquake,Mexico,17.25,-93.21,10,mexico earthquake
+2019,Flood,Indonesia,-6.533,107.508,66,indonesia flood
+2019,Flood,Japan,32.951,130.545,1,japan flood
+2019,Flood,Japan,36.739,140.269,10,japan flood
+2019,Flood,Kenya,0.728,39.414,90,kenya flood
+2019,Flood,Peru,-5.921,-76.979,0,peru flood
+2019,Flood,Mozambique,-16.223,36.866,28,mozambique flood
+2019,Earthquake,Indonesia,-3.45,128.347,31,indonesia earthquake
+2019,Earthquake,Iran (Islamic Republic of),37.808,47.558,6,iran (islamic republic of) earthquake
+2019,Flood,Sri Lanka,7.922,80.835,3,sri lanka flood
+2019,Flood,Mexico,-107.661,28.484,3,mexico flood
+2019,Flood,Malaysia,102.584,4.415,2,malaysia flood
+2019,Earthquake,Pakistan,33.106,73.766,39,pakistan earthquake
+2019,Earthquake,Philippines (the),6.714,125.009,7,philippines (the) earthquake
+2019,Earthquake,Philippines (the),6.754,124.985,10,philippines (the) earthquake
+2019,Earthquake,Philippines (the),6.905,125.187,23,philippines (the) earthquake
+2019,Earthquake,Philippines (the),6.708,125.188,14,philippines (the) earthquake
+2019,Flood,Sudan (the),14.826,33.921,78,sudan (the) flood
+2019,Flood,Senegal,15.52,-15.516,6,senegal flood
+2019,Earthquake,Turkey,40.89,28.173,1,turkey earthquake
+2020,Flood,Japan,326.655,131.039,82,japan flood
+2020,Flood,Kenya,116.343,365.935,285,kenya flood
+2020,Flood,Madagascar,-18.95,47.184,40,madagascar flood
+2020,Flood,Peru,-701.073,-768.801,0,peru flood
+2020,Earthquake,Puerto Rico,17.937,-66.727,0,puerto rico earthquake
+2020,Flood,"Tanzania, United Republic of",-451.236,342.182,2,"tanzania, united republic of flood"
+2020,Flood,Uganda,0.013,310.263,11,uganda flood
+2020,Earthquake,Puerto Rico,17.935,-66.883,4,puerto rico earthquake
+2020,Storm,Madagascar,-144.876,487.673,4,madagascar storm
+2020,Flood,Rwanda,-199.445,298.633,3,rwanda flood
+2020,Earthquake,Greece,37.913,26.779,2,greece earthquake
+2020,Earthquake,Croatia,45.897,15.966,1,croatia earthquake
+2020,Earthquake,Croatia,45.422,16.255,8,croatia earthquake
+2020,Earthquake,Indonesia,2.911,128.248,0,indonesia earthquake
+2020,Earthquake,Iran (Islamic Republic of),38.543,44.447,0,iran (islamic republic of) earthquake
+2020,Flood,Iran (Islamic Republic of),330.386,541.614,8,iran (islamic republic of) flood
+2020,Earthquake,Mexico,15.916,-95.953,10,mexico earthquake
+2020,Flood,Mongolia,463.877,106.222,2,mongolia flood
+2020,Flood,Mozambique,-180.132,352.821,2,mozambique flood
+2020,Flood,Malaysia,24.561,103.055,0,malaysia flood
+2020,Flood,Oman,183.982,545.326,3,oman flood
+2020,Earthquake,Philippines (the),12.021,124.123,1,philippines (the) earthquake
+2020,Flood,Poland,511.537,224.898,0,poland flood
+2020,Flood,Somalia,614.157,470.848,26,somalia flood
+2020,Flood,Chad,962.794,180.854,0,chad flood
+2020,Earthquake,Turkey,38.39,44.367,41,turkey earthquake
+2020,Earthquake,Turkey,38.543,44.447,9,turkey earthquake
+2020,Earthquake,Turkey,39.421,40.697,1,turkey earthquake
+2020,Earthquake,Turkey,38.558,44.023,0,turkey earthquake
+2020,Earthquake,Turkey,37.913,26.779,115,turkey earthquake
+2021,Earthquake,Indonesia,-2.976,118.901,110,indonesia earthquake
+2021,Earthquake,Indonesia,-3.593,129.503,0,indonesia earthquake
+2021,Earthquake,Greece,39.789,22.119,0,greece earthquake
+2021,Earthquake,Haiti,18.408,-73.475,2577,haiti earthquake
+2021,Earthquake,Indonesia,-8.562,112.519,9,indonesia earthquake
+2021,Earthquake,India,26.781,92.457,2,india earthquake
+2021,Earthquake,Iran (Islamic Republic of),29.787,50.669,0,iran (islamic republic of) earthquake
+2021,Earthquake,Japan,37.745,141.749,1,japan earthquake
+2021,Earthquake,Japan,38.475,141.633,0,japan earthquake
+2021,Earthquake,Pakistan,30.22,68.014,20,pakistan earthquake
+1973,Earthquake,United States of America (the),34.1,-119,0,united states of america (the) earthquake
+1973,Earthquake,United States of America (the),19.936,-155.098,0,united states of america (the) earthquake
+1975,Earthquake,United States of America (the),42.06,-122.55,0,united states of america (the) earthquake
+2019,Flood,Yemen,43.571,15.118,12,yemen flood
+2019,Flood,Uruguay,-33.749,-55.922,0,uruguay flood
+2019,Flood,Venezuela (Bolivarian Republic of),9.772,-72.228,6,venezuela (bolivarian republic of) flood
+2020,Flood,Uzbekistan,412.451,55.844,4,uzbekistan flood
+2020,Storm,Viet Nam,20.691,105.183,5,viet nam storm
+2020,Flood,Uruguay,-331.035,-560.461,0,uruguay flood
+2020,Flood,Ukraine,492.688,23.628,3,ukraine flood
+2020,Flood,Yemen,132.586,444.372,10,yemen flood
