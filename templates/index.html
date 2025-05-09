@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Disaster & Weather Chatbot</title>
+    <style>
+      body { font-family: sans-serif; margin: 2rem; }
+      #response { margin-top: 1rem; white-space: pre-wrap; }
+      button { margin-left: 0.5rem; }
+    </style>
+  </head>
+
+  <body>
+    <h1>Disaster and Weather Bot</h1>
+    <h3>Ask this chatbot about natural disasters and real time weather!</h3>
+
+   
+    <input id="query" type="text" size="60"
+           placeholder="e.g. deadliest 2020  |  weather 38.9 -77.4"/>
+    <button id="send">Ask!</button>
+
+    
+    <div id="response"></div>
+
+    <script>
+      const q   = document.getElementById("query");
+      const btn = document.getElementById("send");
+      const out = document.getElementById("response");
+
+      function ask() {
+        const text = q.value.trim();
+        if (!text) return;
+        out.textContent = "Loading…";
+
+        fetch("/chat", {
+          method : "POST",
+          headers: { "Content-Type": "application/json" },
+          body   : JSON.stringify({ message: text })
+        })
+        .then(r => r.json())
+        .then(data => {
+          out.textContent = data.answer || data.error;
+        })
+        .catch(err => {
+          out.textContent = "Network error: " + err;
+        });
+      }
+
+      btn.onclick = ask;
+      q.addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
+    </script>
+  </body>
+</html>

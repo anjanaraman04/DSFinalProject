@@ -4,7 +4,7 @@ from typing import Dict, Any
 
 import pandas as pd
 import requests
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from dotenv import load_dotenv
 import google.generativeai as genai 
 
@@ -83,7 +83,12 @@ def answer_prompt(query: str) -> str:
     return ask_gemini(system_prompt, query)
 
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder="templates")
+
+@app.get("/")
+def home():
+    """Serve the bare-bones UI."""
+    return render_template("index.html")
 
 @app.post("/chat")
 def chat():
