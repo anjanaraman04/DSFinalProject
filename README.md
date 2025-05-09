@@ -18,13 +18,15 @@ A Flask REST API that answers questions about historical natural disasters and r
 6. Start the flask app `python3 app.py` and visit http://127.0.0.1:5000
 
 Optionally run in a seperate terminal commands such as...
-```curl -X POST localhost:5000/chat \
+```
+curl -X POST localhost:5000/chat \
      -H "Content-Type: application/json" \
      -d '{"message":"deadliest 2010"}'
 
 curl -X POST localhost:5000/chat \
      -H "Content-Type: application/json" \
-     -d '{"message":"weather 40.7 -74.0"}'```
+     -d '{"message":"weather 40.7 -74.0"}'
+```
 
 
 
