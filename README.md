@@ -19,7 +19,9 @@ A Flask REST API that answers questions about historical natural disasters and r
 
 # Running remotely/through Browser
 POST Method link: http://34.86.33.221:5000/chat
+
 Browser link (Skeleton front end): http://34.86.33.221:5000/
+
 Note: Front end makes POST calls to the link above to retrieve information
 
 Optionally run in a seperate terminal commands such as...
