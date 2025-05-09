@@ -9,11 +9,11 @@ A Flask REST API that answers questions about historical natural disasters and r
   - `count <type> <country> <start>-<end>` → event count in range
   - `weather <lat> <lon>` → real‑time temperature, wind, precipitation
 
-# Running Locally 
+# Running the Bot Locally 
 1. Clone repository
 2. Enter virtual environment: `python3 -m venv .venv && source .venv/bin/activate`
 3. Install dependencies `pip3 install...`
-4. Place Kaggle CSV
+4. Download Kaggle CSV and place it in the repository https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis?resource=download
 5. Run etl.py ONCE `python3 etl.py`
 6. Start the flask app `python3 app.py` and visit http://127.0.0.1:5000
 
