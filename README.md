@@ -17,6 +17,11 @@ A Flask REST API that answers questions about historical natural disasters and r
 5. Run etl.py ONCE `python3 etl.py`
 6. Start the flask app `python3 app.py` and visit http://127.0.0.1:5000
 
+# Running remotely/through Browser
+POST Method link: http://34.86.33.221:5000/chat
+Browser link (Skeleton front end): http://34.86.33.221:5000/
+Note: Front end makes POST calls to the link above to retrieve information
+
 Optionally run in a seperate terminal commands such as...
 ```
 curl -X POST localhost:5000/chat \
